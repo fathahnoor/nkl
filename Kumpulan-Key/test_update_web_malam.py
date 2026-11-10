@@ -9,6 +9,10 @@ from update_web_malam import ROOT, update
 
 
 class UpdateTests(unittest.TestCase):
+    def test_copy_countdown(self):
+        subprocess.run(['node', str(ROOT / 'Kumpulan-Key/test_copy_countdown.cjs'),
+                        str(ROOT / 'Salin-Kode-Nusuk/index.html')], check=True)
+
     def test_release_and_reload(self):
         with tempfile.TemporaryDirectory(prefix='nusuk-updater-test-') as tmp:
             root = Path(tmp)

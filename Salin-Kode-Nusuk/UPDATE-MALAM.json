@@ -12,7 +12,8 @@
   "totalWeb": 4006,
   "duplicatesSkippedThisRun": 201,
   "overLimitThisRun": 0,
-  "html_sha256": "7772ba7f9d554c67c1340e657a8b0f3068d3368f38cb7e2418d054e8f6f61abf",
+  "html_sha256": "eaf2c75562d0f9620060627ac1817313deadf608302649cc7c7c3cb3a83c0bb9",
   "nusuk_app_tested": false,
-  "baselineUpdatedAt": "2026-11-11T05:20:29+07:00"
+  "baselineUpdatedAt": "2026-11-11T05:20:29+07:00",
+  "copyCountdownSeconds": 10
 }
