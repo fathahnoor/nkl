@@ -15,7 +15,7 @@ Batch 01: 10 November 2026, 20.05 WIB, berisi 1.099 kode unik. Jam ini diambil d
 Mulai dari hape
 1. Download ZIP-nya, lalu extract folder Salin-Kode-Nusuk.
 2. Buka index.html lewat browser, bukan preview di aplikasi chat atau di dalam ZIP.
-3. Tap kartu cyan untuk copy satu kode. Kode tetap terlihat selama countdown 10 detik, lalu masuk History dan kode berikutnya naik.
+3. Tap kartu cyan untuk copy satu kode. Kode tetap terlihat selama countdown 5 detik, lalu masuk History dan kode berikutnya naik.
 4. Pindah ke Nusuk, paste kodenya, lalu balik ke halaman ini. Repeat sampai selesai.
 
 Kalau copy otomatis nggak jalan

@@ -12,7 +12,7 @@ Web statik ini dirancang untuk memudahkan copy-paste kode ke aplikasi Nusuk, ter
 
 ## ✨ Yang bikin praktis
 
-- 📋 **Copy satu kode**, lalu langsung paste di Nusuk. Countdown **10 detik** menjaga kode tetap terlihat sebelum masuk History.
+- 📋 **Copy satu kode**, lalu langsung paste di Nusuk. Countdown **5 detik** menjaga kode tetap terlihat sebelum masuk History.
 - 📦 **Pilih batch** supaya kode dari paket lama tidak tercampur dengan paket baru.
 - 🔴 **History** membantu melihat kode yang sudah di-copy.
 - ↩️ **Undo** kalau ingin mengembalikan kode ke antrean.

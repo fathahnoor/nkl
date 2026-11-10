@@ -18,11 +18,11 @@ function browser(saved=new Map(),start=100000,clipboardWorks=true){
   await b.call('copy(codes[0],true)');
   assert.equal(b.get('done.length'),0,'copy must not immediately consume the code');
   assert.equal(b.el('nextCode').textContent,code);
-  assert.match(b.el('copyHint').textContent,/10/);
+  assert.match(b.el('copyHint').textContent,/5/);
   assert.equal(b.el('next').disabled,true);
   await b.call('copy(codes[0],true)');assert.equal(b.writes(),1,'double tap must not copy twice');
   b.call('switchBatch(state.batches.find(x=>x.id!==state.activeBatchId).id)');assert.equal(b.get('state.activeBatchId'),batch);
-  b.advance(9999);assert.equal(b.get('done.length'),0);assert.match(b.el('copyHint').textContent,/1/);
+  b.advance(4999);assert.equal(b.get('done.length'),0);assert.match(b.el('copyHint').textContent,/1/);
   b.advance(1);assert.deepEqual(b.get('done'),[code]);assert.notEqual(b.el('nextCode').textContent,code);
   b.advance(500);await b.call('copy(last,false)');assert.equal(b.get('done.length'),1);assert.equal(b.get('Boolean(state.pendingCopy)'),false,'recopy must not consume another code');
   b.advance(500);await b.call('copy(codes.find(c=>!done.includes(c)),true)');
@@ -30,9 +30,9 @@ function browser(saved=new Map(),start=100000,clipboardWorks=true){
   b=browser(b.saved,b.now()+3000);assert.equal(b.get('done.length'),1);assert.equal(b.el('nextCode').textContent,second);
   b.advance(deadline-b.now(),false);b.visible();assert.equal(b.get('done.length'),2,'returning from background must finish an expired countdown');
   b.advance(500);await b.call('copy(codes.find(c=>!done.includes(c)),true)');
-  b=browser(b.saved,b.now()+11000);assert.equal(b.get('done.length'),3,'reload after deadline must finish pending copy');assert.equal(b.writes(),0);
+  b=browser(b.saved,b.now()+6000);assert.equal(b.get('done.length'),3,'reload after deadline must finish pending copy');assert.equal(b.writes(),0);
   const m=browser(new Map(),200000,false);await m.call('copy(codes[0],true)');assert.equal(m.el('manual').open,true);assert.equal(m.get('done.length'),0);assert.equal(m.get('Boolean(state.pendingCopy)'),false);
   m.el('manualCancel').listeners.click();assert.equal(m.get('Boolean(state.pendingCopy)'),false);
-  m.advance(500);await m.call('copy(codes[0],true)');m.el('manualDone').listeners.click();assert.equal(m.get('done.length'),0);assert.match(m.el('copyHint').textContent,/10/);m.advance(10000);assert.equal(m.get('done.length'),1);
+  m.advance(500);await m.call('copy(codes[0],true)');m.el('manualDone').listeners.click();assert.equal(m.get('done.length'),0);assert.match(m.el('copyHint').textContent,/5/);m.advance(5000);assert.equal(m.get('done.length'),1);
   console.log('PASS: delayed completion, countdown boundary, double tap, batch lock, reload/background, recopy, manual failure/cancel/confirm');
 })().catch(e=>{console.error(e);process.exitCode=1;});
