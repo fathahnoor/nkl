@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#080c17">
-<title>Nusuk Copy-Paste</title>
+<title>Nusuk Keys List Copy-Paste</title>
 <style>
 :root{color-scheme:dark;--ink:#f1f7ff;--muted:#a8bdd2;--brand:#45f4e5;--paper:#07111f;--line:#23485e;--red:#ff547d;--redbg:#291426;--surface:#0e1b2c;--lime:#d6ff58;--violet:#9d8cff}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 12% 0%,#12314c 0,transparent 38%),radial-gradient(ellipse at 100% 22%,#241b48 0,transparent 34%),var(--paper);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;min-height:100vh}main{max-width:560px;margin:auto;padding:24px 16px calc(32px + env(safe-area-inset-bottom))}h1{font-size:clamp(28px,7vw,34px);line-height:1.15;margin:4px 0 8px;letter-spacing:-.7px}h2{font-size:18px;margin:0 0 12px}p{margin:8px 0}small,.hint{font-size:14px;color:var(--muted)}.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:1.5px;color:var(--brand);font-weight:800}.stats{display:flex;justify-content:space-between;gap:8px;margin:20px 0 6px}.stats strong{font-size:22px;color:var(--lime)}progress{display:block;width:100%;height:8px;border:0;accent-color:var(--brand);margin-bottom:20px}progress::-webkit-progress-bar{background:#172c3c;border-radius:8px}progress::-webkit-progress-value{background:linear-gradient(90deg,var(--brand),var(--violet));border-radius:8px;box-shadow:0 0 12px #45f4e588}
@@ -18,7 +18,7 @@ footer,.status,.batch-meta{overflow-wrap:anywhere}
 <body>
 <noscript><p>Buka file ini di browser dengan JavaScript aktif supaya tombol Copy dan progresnya jalan.</p></noscript>
 <main>
-<header><div class="eyebrow">NUSUK CHALLENGE</div><h1>Nusuk Copy-Paste</h1><p class="hint">Tap kodenya, paste di Nusuk. Balik lagi buat kode berikutnya.</p></header>
+<header><div class="eyebrow">NUSUK CHALLENGE</div><h1>Nusuk Keys List Copy-Paste</h1><p class="hint">Tap kodenya, paste di Nusuk. Balik lagi buat kode berikutnya.</p></header>
 <section class="batch-panel" aria-label="Batch kode"><div class="batch-controls"><label for="batchSelect">Pilih batch<select id="batchSelect"></select></label><button id="addBatch">+ Batch baru</button></div><p id="batchMeta" class="batch-meta"></p></section>
 <div class="stats"><span><strong id="remaining">0</strong> belum di-copy</span><span><strong id="completed">0</strong> sudah di-copy</span></div>
 <progress id="progress" value="0" max="1097" aria-label="Progres kode yang sudah di-copy"></progress>
