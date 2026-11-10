@@ -1,7 +1,7 @@
 # Overnight web updater
 
 Owner: Takumi (web and ZIP). Search and scheduling remain with Akira.
-Campaign: malam-20261110. Baseline: BATCH-01.json, 1,097 keys.
+Campaign: malam-20261110. Baseline: BATCH-01.json, 1,099 keys (1,097 original plus two supplied by Fathah on 11 November 2026).
 
 Run from the existing project root:
 

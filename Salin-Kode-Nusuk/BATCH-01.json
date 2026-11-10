@@ -1099,6 +1099,20 @@
     "NG-zv3Axrg7",
     "NG-zw1VdeWZ",
     "NG-zyXwTO1T",
-    "NG-ZZs9JZS4"
+    "NG-ZZs9JZS4",
+    "NG-5hNMO4cM",
+    "NG-rb5LesKi"
+  ],
+  "additions": [
+    {
+      "addedAt": "2026-11-11T05:20:29+07:00",
+      "codes": [
+        "NG-5hNMO4cM",
+        "NG-rb5LesKi"
+      ],
+      "sourceType": "user_message",
+      "sourceMessageId": "89c4e5c6-c716-493a-9659-c8e6038b0993",
+      "nusuk_app_tested": false
+    }
   ]
 }

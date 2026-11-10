@@ -1,7 +1,7 @@
 NUSUK COPY-PASTE
 
 Batch kode
-Batch 01: 10 November 2026, 20.05 WIB, berisi 1.097 kode unik. Jam ini diambil dari waktu pembuatan data gabungan, bukan waktu penukaran di Nusuk.
+Batch 01: 10 November 2026, 20.05 WIB, berisi 1.099 kode unik. Jam ini diambil dari waktu pembuatan data gabungan, bukan waktu penukaran di Nusuk.
 
 - Pilih paket lewat selector "Pilih batch" di atas tombol Copy. Tanggal/jam batch aktif tampil tepat di bawahnya.
 - Untuk paket berikutnya, tap "+ Batch baru". Beri nama, lalu paste ribuan kode sekaligus atau import file TXT, CSV, atau JSON. Kalau sumbernya Excel, export ke CSV dulu.
@@ -36,14 +36,14 @@ Biar progres nggak hilang
 Pakai browser biasa, jangan incognito. Progres tersimpan di browser yang sama selama storage diizinkan. Backup sebelum pindah folder, ganti browser, atau clear data. Cara browser menyimpan progres dari file lokal bisa berbeda. Kalau storage diblokir, halaman menampilkan peringatan. File backup bisa dipindahkan dan di-restore ke hape lain.
 
 Update dari versi sebelumnya
-Nama folder dan index.html tetap sama supaya lokasi penyimpanan progres tidak berubah. Backup progres dulu, lalu replace file di folder yang sama. Jangan clear data browser. Data Batch 01 tetap 1.097 kode. Progres versi lama otomatis dipindahkan ke Batch 01 pada browser dan lokasi file yang sama. Backup lama tetap bisa di-restore. Versi ini menyimpan semua batch dengan format backup versi 2.
+Nama folder dan index.html tetap sama supaya lokasi penyimpanan progres tidak berubah. Backup progres dulu, lalu replace file di folder yang sama. Jangan clear data browser. Batch 01 berisi 1.099 kode setelah tambahan dua kode dari pengguna pada 11 November 2026. Progres versi lama otomatis dipindahkan ke Batch 01 pada browser dan lokasi file yang sama. Backup lama tetap bisa di-restore. Versi ini menyimpan semua batch dengan format backup versi 2.
 
 Kalau buka di Windows
 Double-click index.html atau BUKA-WINDOWS.bat. BAT hanya membuka halaman di browser default, tanpa menjalankan server.
 
 Isi folder
 - index.html: halaman lengkap, termasuk kode, CSS, dan JavaScript.
-- kode-nusuk.txt: 1.097 kode, satu per baris, untuk copy manual.
+- kode-nusuk.txt: 1.099 kode, satu per baris, untuk copy manual.
 - BUKA-WINDOWS.bat: pembuka opsional di Windows.
 - SUMBER.json: asal data dan hash sumber.
 - BATCH-01.json: metadata Batch 01 dan daftar kodenya.

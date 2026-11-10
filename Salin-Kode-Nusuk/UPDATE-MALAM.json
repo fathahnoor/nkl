@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-11-11T04:46:28+07:00",
-  "baseline": 1097,
+  "baseline": 1099,
   "newUnique": 2907,
   "releasedNew": 2907,
   "pending": 0,
@@ -9,9 +9,10 @@
     1000,
     907
   ],
-  "totalWeb": 4004,
+  "totalWeb": 4006,
   "duplicatesSkippedThisRun": 201,
   "overLimitThisRun": 0,
-  "html_sha256": "51b8be6c7be6976dee83dc4258a4fa41ed7f5e4ba0ba40935a41bd0f638a5314",
-  "nusuk_app_tested": false
+  "html_sha256": "7772ba7f9d554c67c1340e657a8b0f3068d3368f38cb7e2418d054e8f6f61abf",
+  "nusuk_app_tested": false,
+  "baselineUpdatedAt": "2026-11-11T05:20:29+07:00"
 }

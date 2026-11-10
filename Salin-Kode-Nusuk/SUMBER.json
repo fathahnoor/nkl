@@ -1,6 +1,6 @@
 {
   "dataset": "d089ba09c115e2b0",
-  "count": 1097,
+  "count": 1099,
   "source": "Kode-Gabungan-1097-Makoto-20261110.json",
   "source_sha256": "ae4fc4b5896dcafea06647df7c9b08478f67bd1883101ac5ae3f70ee3ba14c7b",
   "criteria": "Kode unik; penerimaan di aplikasi tidak diuji.",
@@ -9,5 +9,18 @@
     "name": "Batch 01",
     "createdAt": "2026-11-10T20:05:59.677460+07:00"
   },
-  "ui_storage_version": 2
+  "ui_storage_version": 2,
+  "original_count": 1097,
+  "additions": [
+    {
+      "addedAt": "2026-11-11T05:20:29+07:00",
+      "codes": [
+        "NG-5hNMO4cM",
+        "NG-rb5LesKi"
+      ],
+      "sourceType": "user_message",
+      "sourceMessageId": "89c4e5c6-c716-493a-9659-c8e6038b0993",
+      "nusuk_app_tested": false
+    }
+  ]
 }

@@ -29,7 +29,7 @@ class UpdateTests(unittest.TestCase):
             subprocess.run(['node', str(ROOT / 'Kumpulan-Key/test_release_merge.cjs'), str(html)], check=True)
             report = update(root, rows, final=True)
             self.assertEqual(report['newUnique'], 5000)
-            self.assertEqual(report['totalWeb'], 6097)
+            self.assertEqual(report['totalWeb'], 5000 + len(base['codes']))
             self.assertEqual(report['overLimitThisRun'], 1000)
             self.assertTrue(all(n <= 1000 for n in report['batchSizes']))
             before = html.read_bytes()
