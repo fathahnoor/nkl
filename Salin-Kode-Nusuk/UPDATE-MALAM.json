@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-11-11T04:46:28+07:00",
+  "baseline": 1097,
+  "newUnique": 2907,
+  "releasedNew": 2907,
+  "pending": 0,
+  "batchSizes": [
+    1000,
+    1000,
+    907
+  ],
+  "totalWeb": 4004,
+  "duplicatesSkippedThisRun": 201,
+  "overLimitThisRun": 0,
+  "html_sha256": "ec8ae01ffb72183866bc56ef5618aed39cb0b376f04df8e8b6d95d69268ebb09",
+  "nusuk_app_tested": false
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tmp
+*.lock
+.env
+.env.*
+batch-dan-progres-nusuk-*.json

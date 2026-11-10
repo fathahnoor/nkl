@@ -1,0 +1,13 @@
+{
+  "dataset": "d089ba09c115e2b0",
+  "count": 1097,
+  "source": "Kode-Gabungan-1097-Makoto-20261110.json",
+  "source_sha256": "ae4fc4b5896dcafea06647df7c9b08478f67bd1883101ac5ae3f70ee3ba14c7b",
+  "criteria": "Kode unik; penerimaan di aplikasi tidak diuji.",
+  "initial_batch": {
+    "id": "batch-20261110-200559",
+    "name": "Batch 01",
+    "createdAt": "2026-11-10T20:05:59.677460+07:00"
+  },
+  "ui_storage_version": 2
+}

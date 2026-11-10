@@ -1,0 +1,71 @@
+{
+  "codes": 1097,
+  "unique": true,
+  "self_contained": true,
+  "no_network_dependencies": true,
+  "browser": "BrowserOS neo, desktop, file URL",
+  "functional_checks": [
+    "real click advanced one code",
+    "undo restores code",
+    "clipboard failure keeps queue",
+    "manual cancel keeps queue",
+    "manual confirmation advances",
+    "recopy does not consume next",
+    "double invocation consumes one",
+    "progress survives reload",
+    "export payload",
+    "import restores",
+    "wrong dataset rejected",
+    "invalid code rejected",
+    "duplicate import deduplicated",
+    "history contains copied code"
+  ],
+  "responsive_widths_css_px": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "horizontal_overflow": false,
+  "physical_phone_tested": false,
+  "nusuk_app_tested": false,
+  "ui_revision": "neon-batches-v2",
+  "ui_checks": [
+    "copy/paste wording",
+    "dark cyan lime pink theme",
+    "copy again and undo",
+    "manual copy failure/cancel",
+    "code data unchanged",
+    "v1 progress migrated into Batch 01",
+    "timestamped selector"
+  ],
+  "batch_checks": [
+    "source timestamp 2026-11-10 20:05:59 WIB",
+    "legacy progress migration",
+    "exclude old codes whether copied or not",
+    "deduplicate input",
+    "activate imported batch",
+    "isolated progress and history",
+    "all-old input creates no empty batch",
+    "5000 synthetic code import",
+    "reload retains imported batch and active selection",
+    "v2 backup roundtrip",
+    "v1 backup compatibility",
+    "conflicting backup rejected atomically",
+    "batch dialog opens",
+    "manual copy blocks batch switching",
+    "file input import",
+    "long names fit 320px and 390px",
+    "corrupt saved state preserved",
+    "restore repairs storage"
+  ],
+  "synthetic_test_codes_in_package": false,
+  "initial_batch": {
+    "id": "batch-20261110-200559",
+    "name": "Batch 01",
+    "createdAt": "2026-11-10T20:05:59.677460+07:00"
+  },
+  "initial_batch_count": 1,
+  "html_sha256": "a7a249190f8d2c49bd1ddb9f6b50cb0b74e5c6f8a5593cc12ab54a41bb05d317"
+}

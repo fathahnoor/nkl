@@ -1,0 +1,26 @@
+{
+  "codes": 1097,
+  "exact_match_to_merged_data": true,
+  "duplicate_codes": 0,
+  "duplicate_ignoring_case": 0,
+  "all_source_cells_and_hyperlinks_match": true,
+  "formula_check": {
+    "boolAsNumber": 0,
+    "categoriesDiffering": {},
+    "checked": 1097,
+    "failedToOpen": 0,
+    "files": 1,
+    "formulaCells": 1097,
+    "matched": 1097,
+    "mismatched": 0,
+    "noOracle": 0,
+    "opened": 1,
+    "roundTripDiffering": 0,
+    "roundTripFailed": 0,
+    "volatile": 0
+  },
+  "sha256": "1b9e1bc38a0d1be85fd6c1ac1a740313d418654388ddb3e34b0b09615aa2f225",
+  "attachment": "C:\\Users\\fathahnoor\\OpenBot\\Agents\\agent-2f0e65bb-73eb-4038-ad2d-532a48f377b6\\Kumpulan-Key-Nusuk-Gabungan-1097-Makoto-20261110.xlsx",
+  "input_manifest": "C:\\DATA (SFG14)\\261108_Threads Nusuk Challenge\\Kumpulan-Key\\Makoto-20261110\\Kode-Gabungan-1097-Makoto-20261110.json",
+  "source_review_limit": "Data Akira digabung dari artefak. Satu sampel tambahan dibaca ulang melalui Neo, sumber lain tidak dibuka ulang satu per satu."
+}

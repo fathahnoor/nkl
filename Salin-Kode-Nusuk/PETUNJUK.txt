@@ -1,0 +1,58 @@
+NUSUK COPY-PASTE
+
+Batch kode
+Batch 01: 10 November 2026, 20.05 WIB, berisi 1.097 kode unik. Jam ini diambil dari waktu pembuatan data gabungan, bukan waktu penukaran di Nusuk.
+
+- Pilih paket lewat selector "Pilih batch" di atas tombol Copy. Tanggal/jam batch aktif tampil tepat di bawahnya.
+- Untuk paket berikutnya, tap "+ Batch baru". Beri nama, lalu paste ribuan kode sekaligus atau import file TXT, CSV, atau JSON. Kalau sumbernya Excel, export ke CSV dulu.
+- Kode yang sudah ada di batch mana pun otomatis dilewati, termasuk kode lama yang belum di-copy. Duplikat di dalam daftar baru juga dilewati. Huruf besar-kecil tetap dipertahankan.
+- Batch baru langsung aktif setelah ditambahkan. Halaman mengingat batch pilihan terakhir saat dibuka lagi.
+- Tiap batch punya history, kode terakhir, dan progres sendiri. Pindah batch tidak menghapus progres batch lain.
+- Timestamp Batch 01 berasal dari sumber data. Timestamp batch yang di-import berikutnya mencatat waktu ditambahkan, mengikuti jam perangkat dan ditampilkan dalam WIB.
+- "Backup semua batch" menyimpan daftar batch tambahan beserta progresnya. Untuk membagikan batch tambahan ke hape istri, kirim file backup dan lakukan Restore di hapenya. Restore juga membawa status kode yang sudah di-copy.
+- Import batch tidak mengubah file index.html di disk. Batch tambahan tersimpan di browser. ZIP awal hanya berisi Batch 01. Backup sebelum clear data, pindah perangkat, atau mengganti lokasi folder.
+
+Mulai dari hape
+1. Download ZIP-nya, lalu extract folder Salin-Kode-Nusuk.
+2. Buka index.html lewat browser, bukan preview di aplikasi chat atau di dalam ZIP.
+3. Tap kartu cyan untuk copy satu kode. Kode berikutnya langsung naik.
+4. Pindah ke Nusuk, paste kodenya, lalu balik ke halaman ini. Repeat sampai selesai.
+
+Kalau copy otomatis nggak jalan
+Tekan lama kode di jendela Copy manual, lalu pilih Copy. Setelah itu tap "Sudah di-copy". Kalau belum copy, tap Batal supaya kode tetap di tempat.
+
+Tombol yang perlu tahu
+- Copy lagi: copy kode terakhir tanpa mengambil kode berikutnya.
+- Undo: balikin kode terakhir ke daftar.
+- Kode berikutnya: lihat semua kode yang belum di-copy.
+- History: kode yang sudah di-copy tampil merah dan bisa di-copy lagi.
+- Backup semua batch: download seluruh batch dan progresnya sebagai file JSON.
+- Restore progres: gabungkan batch dan progres dari file backup ke hape ini. Backup versi lama juga bisa dipakai.
+
+Buat hape istri
+Cukup bagikan ZIP ini. Tiap hape punya progres sendiri. Kalau mau mulai dari nol, jangan sertakan file backup progres pribadi. Nggak perlu server, laptop menyala, login tambahan, atau install paket.
+
+Biar progres nggak hilang
+Pakai browser biasa, jangan incognito. Progres tersimpan di browser yang sama selama storage diizinkan. Backup sebelum pindah folder, ganti browser, atau clear data. Cara browser menyimpan progres dari file lokal bisa berbeda. Kalau storage diblokir, halaman menampilkan peringatan. File backup bisa dipindahkan dan di-restore ke hape lain.
+
+Update dari versi sebelumnya
+Nama folder dan index.html tetap sama supaya lokasi penyimpanan progres tidak berubah. Backup progres dulu, lalu replace file di folder yang sama. Jangan clear data browser. Data Batch 01 tetap 1.097 kode. Progres versi lama otomatis dipindahkan ke Batch 01 pada browser dan lokasi file yang sama. Backup lama tetap bisa di-restore. Versi ini menyimpan semua batch dengan format backup versi 2.
+
+Kalau buka di Windows
+Double-click index.html atau BUKA-WINDOWS.bat. BAT hanya membuka halaman di browser default, tanpa menjalankan server.
+
+Isi folder
+- index.html: halaman lengkap, termasuk kode, CSS, dan JavaScript.
+- kode-nusuk.txt: 1.097 kode, satu per baris, untuk copy manual.
+- BUKA-WINDOWS.bat: pembuka opsional di Windows.
+- SUMBER.json: asal data dan hash sumber.
+- BATCH-01.json: metadata Batch 01 dan daftar kodenya.
+- PEMERIKSAAN.json: hasil pengecekan dan batas pengujian.
+- PETUNJUK.txt: file ini.
+
+Tentang datanya
+Kode berasal dari koleksi gabungan 10 November 2026 dan sudah dicek unik. Huruf besar-kecil tetap sama. "Sudah di-copy" belum berarti kode diterima Nusuk. Halaman ini tidak mengakses akun atau mengirim kode ke Nusuk.
+
+Yang sudah dicek
+Alur copy, kode berikutnya, Copy lagi, Undo, copy manual, double tap, reload, backup, dan restore sudah diuji di BrowserOS neo desktop. Tema neon dicek pada lebar 320, 390, 768, 1024, dan 1440 piksel tanpa horizontal overflow. Belum diuji langsung di hape fisik atau bersama aplikasi Nusuk.
+

@@ -1,0 +1,132 @@
+{
+  "files": [
+    {
+      "calc": {
+        "boolAsNumber": 0,
+        "checked": 1097,
+        "formulaCells": 1097,
+        "functions": [
+          {
+            "checked": 1097,
+            "mismatched": 0,
+            "name": "HYPERLINK",
+            "primary": 0
+          }
+        ],
+        "matched": 1097,
+        "mismatched": 0,
+        "mismatches": [],
+        "noOracle": 0,
+        "signatures": {},
+        "staleCache": false,
+        "volatile": 0
+      },
+      "error": null,
+      "opened": true,
+      "path": "C:\\DATA (SFG14)\\261108_Threads Nusuk Challenge\\Kumpulan-Key\\Makoto-20261110\\Kumpulan-Key-Nusuk-Gabungan-1097-Makoto-20261110.xlsx",
+      "roundTrip": {
+        "categories": {
+          "charts": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "comments": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "condFormats": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "formulas": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "hyperlinks": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "merges": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "names": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "numFmts": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "package": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "pivots": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "sheets": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "tables": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "validations": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          },
+          "values": {
+            "diffs": 0,
+            "equal": true,
+            "examples": []
+          }
+        },
+        "differing": [],
+        "error": null
+      },
+      "warnings": []
+    }
+  ],
+  "functions": [
+    {
+      "checked": 1097,
+      "mismatched": 0,
+      "name": "HYPERLINK",
+      "primary": 0
+    }
+  ],
+  "schema": "gridcraft-check/1",
+  "signatures": {},
+  "tolerance": 1e-9,
+  "totals": {
+    "boolAsNumber": 0,
+    "categoriesDiffering": {},
+    "checked": 1097,
+    "failedToOpen": 0,
+    "files": 1,
+    "formulaCells": 1097,
+    "matched": 1097,
+    "mismatched": 0,
+    "noOracle": 0,
+    "opened": 1,
+    "roundTripDiffering": 0,
+    "roundTripFailed": 0,
+    "volatile": 0
+  }
+}
