@@ -20,7 +20,7 @@ Web statik ini dirancang untuk memudahkan copy-paste kode ke aplikasi Nusuk, ter
 - ➕ **Tambah batch sendiri** lewat paste daftar atau import file.
 - 🌌 **Tampilan dark neon** yang nyaman dipakai di layar kecil.
 
-📊 Snapshot **11 November 2026**: **5.455 kode unik**, terdiri dari batch **1.099 + 1.000 + 1.000 + 907 + 222 + 293 + 934**. Huruf besar-kecil dipertahankan persis. 🔠
+📊 Snapshot **11 November 2026**: **6.248 kode unik**, terdiri dari batch **1.099 + 1.000 + 1.000 + 907 + 222 + 293 + 934 + 793**. Huruf besar-kecil dipertahankan persis. 🔠
 
 💡 Status **Copied** hanya berarti kode sudah di-copy. Penerimaan kode ditentukan aplikasi Nusuk. Daftar ini tidak menjamin kode masih berlaku, bonus, atau hadiah. Gunakan sesuai ketentuan Nusuk. Proyek komunitas ini tidak berafiliasi dengan Nusuk.
 

@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-11T11:03:00+00:00",
-  "added": 934,
-  "totalWeb": 5455,
-  "batch": "Batch 07",
+  "checkedAt": "2026-11-11T11:12:37+00:00",
+  "added": 793,
+  "totalWeb": 6248,
+  "batch": "Batch 08",
   "duplicatesSkipped": 0,
-  "html_sha256": "a0752d4108d0d6a801f1274e77bfdb20da629be27f6334b7104e7a6e4fce5407",
+  "html_sha256": "d1593662912993e31cefeedd11273ceeb4c0f407f5ee7ac2a78f951f969959a1",
   "nusuk_app_tested": false
 }
