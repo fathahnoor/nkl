@@ -1,0 +1,1342 @@
+{
+  "id": "kurasi-7777-05",
+  "name": "Batch 05",
+  "createdAt": "2026-11-11T10:47:12+00:00",
+  "campaign": "kurasi-7777",
+  "codes": [
+    "NG-N2YB5sH0",
+    "NG-YFn1PsuN",
+    "NG-0KLDD36V",
+    "NG-PRShBWM3",
+    "NG-FYXFtTZ3",
+    "NG-ofTtZhSH",
+    "NG-tQuS0I9K",
+    "NG-LhBK8yuw",
+    "NG-tWErpvlh",
+    "NG-0xCYztjl",
+    "NG-CxGyFL8s",
+    "NG-2sftDa6w",
+    "NG-vmDKGoHW",
+    "NG-rh5Df58z",
+    "NG-hlKOJJDy",
+    "NG-cnJbBD8i",
+    "NG-zZmkwVHT",
+    "NG-uGTbvpJ9",
+    "NG-kq2Esr7y",
+    "NG-nP9h8O65",
+    "NG-8KUY8VAV",
+    "NG-8JEOvPrw",
+    "NG-EJ4gVBmC",
+    "NG-yp3snq0Q",
+    "NG-k7vCDESN",
+    "NG-ybDDeyVr",
+    "NG-D2UNB7FR",
+    "NG-a2XoteBr",
+    "NG-amB8pn6m",
+    "NG-8jAtkAoD",
+    "NG-2O29iVf3",
+    "NG-z4kyrIw0",
+    "NG-ydXR4Sjd",
+    "NG-x3zfFNg5",
+    "NG-QqtpofEN",
+    "NG-ZHbUVZoG",
+    "NG-kvhceAAp",
+    "NG-B5I6AFxz",
+    "NG-SgVmoE6z",
+    "NG-mvHIGwe4",
+    "NG-oTOckVC0",
+    "NG-MP5c7NIB",
+    "NG-70A7T1RC",
+    "NG-dIDTnOli",
+    "NG-WV2bxYAZ",
+    "NG-4URsSl2L",
+    "NG-8l1UAOkW",
+    "NG-iJuPfZlo",
+    "NG-f58LuTR3",
+    "NG-HZqIV0e8",
+    "NG-Dpefu89j",
+    "NG-W6iZb061",
+    "NG-oFqqu2mI",
+    "NG-hOMM1E2Q",
+    "NG-GZQxD1p6",
+    "NG-2zikAzim",
+    "NG-H9JC0YNM",
+    "NG-OGIp7FsV",
+    "NG-LzCKzHpo",
+    "NG-Mjj65np7",
+    "NG-BIlTZeaS",
+    "NG-Vj6gRXsT",
+    "NG-F3GMroNi",
+    "NG-spCfZ39B",
+    "NG-QhrD6M0i",
+    "NG-1cFerC8x",
+    "NG-XwZk02K5",
+    "NG-LqNpOLxC",
+    "NG-qoTDpCAM",
+    "NG-NGiBl2Lv",
+    "NG-a1XEgJSm",
+    "NG-LYDRb7wI",
+    "NG-7inLT0yC",
+    "NG-SNymCa3K",
+    "NG-1MwIpXIX",
+    "NG-KJRHmL2k",
+    "NG-2foGs146",
+    "NG-Pt8UdLX5",
+    "NG-5ptJR0CI",
+    "NG-5FbcYQ3l",
+    "NG-9lbHp8Sy",
+    "NG-3tsaTtpG",
+    "NG-paeURIDU",
+    "NG-U8eAy8ug",
+    "NG-WEpvobuu",
+    "NG-kv4hgNwT",
+    "NG-XkWzYve9",
+    "NG-eXORqND9",
+    "NG-9dSJWofX",
+    "NG-ewq9zosE",
+    "NG-OjE1wbk1",
+    "NG-SrQWedAc",
+    "NG-LQ3F4HOe",
+    "NG-tHWyNO9U",
+    "NG-WmpCxbQi",
+    "NG-EqFXKrHO",
+    "NG-SIHiWa4u",
+    "NG-TNqyEzAa",
+    "NG-lwOwuAbY",
+    "NG-S6Uuc1OK",
+    "NG-Yp29oILY",
+    "NG-ll4CvEsh",
+    "NG-QPPcpz8g",
+    "NG-2FGIOhbU",
+    "NG-mvtUvaOe",
+    "NG-b18Qqv1u",
+    "NG-iQE64Pyv",
+    "NG-UubGORxg",
+    "NG-YPrcYSev",
+    "NG-xT0ZcJJK",
+    "NG-dUCzXroX",
+    "NG-6i1y6apH",
+    "NG-kled3bLr",
+    "NG-MC78pYEe",
+    "NG-hPgPnMme",
+    "NG-IJQjGyfz",
+    "NG-hB2juggN",
+    "NG-z5PqlgXH",
+    "NG-paGE3BDR",
+    "NG-fZUBNxF4",
+    "NG-YOsfRYlF",
+    "NG-vQY9x3oH",
+    "NG-zuMorsLV",
+    "NG-vgSruSuC",
+    "NG-K6HtrkLU",
+    "NG-lDBfc1Cx",
+    "NG-vNi3eFzI",
+    "NG-IzlDk3mr",
+    "NG-tWLocRtg",
+    "NG-SduZjtHM",
+    "NG-PnY0NzOF",
+    "NG-vk4Y1Otu",
+    "NG-eGstXcE4",
+    "NG-3jo3Vub5",
+    "NG-wS8SFk6p",
+    "NG-nIAG1Aab",
+    "NG-DVMJFnbv",
+    "NG-16jBzKNU",
+    "NG-NNJZpCo2",
+    "NG-EGfOXVFj",
+    "NG-KJW9z3Ih",
+    "NG-6660eN3K",
+    "NG-0N5jSfOl",
+    "NG-UbfJ4pkw",
+    "NG-p3vyq70V",
+    "NG-4Nt3p5Ox",
+    "NG-oN5aexkt",
+    "NG-3BNHtTud",
+    "NG-2wqMq7cG",
+    "NG-lc3eK2SS",
+    "NG-aZuNrSHx",
+    "NG-XJncPlGu",
+    "NG-d1ZAf83l",
+    "NG-8xcIIrpU",
+    "NG-P9NqP54k",
+    "NG-ZJAw4elU",
+    "NG-mCAl6HZk",
+    "NG-D4iYcbqY",
+    "NG-xXLDfarg",
+    "NG-NFZxdWAx",
+    "NG-21tErBy6",
+    "NG-bCqbDu4n",
+    "NG-TDounzSq",
+    "NG-bg4qbbHB",
+    "NG-zJgfo9AC",
+    "NG-tjsawEjZ",
+    "NG-6bVevl33",
+    "NG-XXPXXgV8",
+    "NG-xUotK7lH",
+    "NG-99QjO1xR",
+    "NG-7XwCAeQd",
+    "NG-VD2pheIa",
+    "NG-y49vplqz",
+    "NG-kyAR56NA",
+    "NG-OIxYuWlh",
+    "NG-gZXsvSxY",
+    "NG-5i1EhRY1",
+    "NG-nxDpJNFx",
+    "NG-tQV2qj7A",
+    "NG-1D7t32XE",
+    "NG-nJV9rXj2",
+    "NG-fYAt4UBC",
+    "NG-Gr1MX7dU",
+    "NG-F3HQunlR",
+    "NG-wd70u7ic",
+    "NG-UUgCZ1bx",
+    "NG-WH7dXnEg",
+    "NG-Ydzl4hk1",
+    "NG-jpzsQZzU",
+    "NG-15R3EYfL",
+    "NG-SNWYWU2j",
+    "NG-PfTLDiob",
+    "NG-jnzEvNlV",
+    "NG-TiUJ6OvD",
+    "NG-g38QX61s",
+    "NG-TIQN0ICu",
+    "NG-rNqbtVbJ",
+    "NG-Uv3zhXOH",
+    "NG-5gpEBaoJ",
+    "NG-FQwUGDw6",
+    "NG-hC2PE253",
+    "NG-ssW7hBi8",
+    "NG-7BM5Aqts",
+    "NG-hpMeglZ2",
+    "NG-3Bif3O1l",
+    "NG-yO43SOjS",
+    "NG-yhFNGvbr",
+    "NG-T0AwhQjX",
+    "NG-RHYmCaED",
+    "NG-CRxhr1An",
+    "NG-14Z0VvqR",
+    "NG-FFEtRfRO",
+    "NG-UCSUuSzF",
+    "NG-Cj7lbLEz",
+    "NG-X9rmLiH6",
+    "NG-qmt4XAJ8",
+    "NG-eJzILkLg",
+    "NG-WcKgGpaP",
+    "NG-HMcsAURP",
+    "NG-PnElehxj",
+    "NG-CBByvQPj",
+    "NG-GUDYz89O"
+  ],
+  "rows": [
+    {
+      "code": "NG-N2YB5sH0",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/permalink/4244484439183235/?comment_id=4247542275544118"
+    },
+    {
+      "code": "NG-YFn1PsuN",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247541032210909"
+    },
+    {
+      "code": "NG-0KLDD36V",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247540842210928"
+    },
+    {
+      "code": "NG-PRShBWM3",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247537158877963"
+    },
+    {
+      "code": "NG-FYXFtTZ3",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247535072211505"
+    },
+    {
+      "code": "NG-ofTtZhSH",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247533038878375"
+    },
+    {
+      "code": "NG-tQuS0I9K",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247532942211718"
+    },
+    {
+      "code": "NG-LhBK8yuw",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247531592211853"
+    },
+    {
+      "code": "NG-tWErpvlh",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247527332212279"
+    },
+    {
+      "code": "NG-0xCYztjl",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247526012212411"
+    },
+    {
+      "code": "NG-CxGyFL8s",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247520518879627"
+    },
+    {
+      "code": "NG-2sftDa6w",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247510915547254"
+    },
+    {
+      "code": "NG-vmDKGoHW",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247509895547356"
+    },
+    {
+      "code": "NG-rh5Df58z",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247509748880704"
+    },
+    {
+      "code": "NG-hlKOJJDy",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247505535547792"
+    },
+    {
+      "code": "NG-cnJbBD8i",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247503048881374"
+    },
+    {
+      "code": "NG-zZmkwVHT",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247500148881664"
+    },
+    {
+      "code": "NG-uGTbvpJ9",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247496692215343"
+    },
+    {
+      "code": "NG-kq2Esr7y",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247491825549163"
+    },
+    {
+      "code": "NG-nP9h8O65",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247490285549317"
+    },
+    {
+      "code": "NG-8KUY8VAV",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247486842216328"
+    },
+    {
+      "code": "NG-8JEOvPrw",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247484852216527"
+    },
+    {
+      "code": "NG-EJ4gVBmC",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247484442216568"
+    },
+    {
+      "code": "NG-yp3snq0Q",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247482538883425"
+    },
+    {
+      "code": "NG-k7vCDESN",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247482532216759"
+    },
+    {
+      "code": "NG-ybDDeyVr",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247482098883469"
+    },
+    {
+      "code": "NG-D2UNB7FR",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247481522216860"
+    },
+    {
+      "code": "NG-a2XoteBr",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247481145550231"
+    },
+    {
+      "code": "NG-amB8pn6m",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247479425550403"
+    },
+    {
+      "code": "NG-8jAtkAoD",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247478712217141"
+    },
+    {
+      "code": "NG-2O29iVf3",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247477792217233"
+    },
+    {
+      "code": "NG-z4kyrIw0",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247476522217360"
+    },
+    {
+      "code": "NG-ydXR4Sjd",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247476465550699"
+    },
+    {
+      "code": "NG-x3zfFNg5",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247475888884090"
+    },
+    {
+      "code": "NG-QqtpofEN",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247474622217550"
+    },
+    {
+      "code": "NG-ZHbUVZoG",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247473818884297"
+    },
+    {
+      "code": "NG-kvhceAAp",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247471455551200"
+    },
+    {
+      "code": "NG-B5I6AFxz",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247469908884688"
+    },
+    {
+      "code": "NG-SgVmoE6z",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247469338884745"
+    },
+    {
+      "code": "NG-mvHIGwe4",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247465782218434"
+    },
+    {
+      "code": "NG-oTOckVC0",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247464532218559"
+    },
+    {
+      "code": "NG-MP5c7NIB",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247464455551900"
+    },
+    {
+      "code": "NG-70A7T1RC",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247460498885629"
+    },
+    {
+      "code": "NG-dIDTnOli",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247450402219972"
+    },
+    {
+      "code": "NG-WV2bxYAZ",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247449092220103"
+    },
+    {
+      "code": "NG-4URsSl2L",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247441288887550"
+    },
+    {
+      "code": "NG-8l1UAOkW",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247440378887641"
+    },
+    {
+      "code": "NG-iJuPfZlo",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247438855554460"
+    },
+    {
+      "code": "NG-f58LuTR3",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247438568887822"
+    },
+    {
+      "code": "NG-HZqIV0e8",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247434728888206"
+    },
+    {
+      "code": "NG-Dpefu89j",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247426478889031"
+    },
+    {
+      "code": "NG-W6iZb061",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247425012222511"
+    },
+    {
+      "code": "NG-oFqqu2mI",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247418292223183"
+    },
+    {
+      "code": "NG-hOMM1E2Q",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247415185556827"
+    },
+    {
+      "code": "NG-GZQxD1p6",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247413595556986"
+    },
+    {
+      "code": "NG-2zikAzim",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247410742223938"
+    },
+    {
+      "code": "NG-H9JC0YNM",
+      "collectedAt": "2026-11-11T10:45:17.037Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247408228890856"
+    },
+    {
+      "code": "NG-OGIp7FsV",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247405332224479"
+    },
+    {
+      "code": "NG-LzCKzHpo",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247405318891147"
+    },
+    {
+      "code": "NG-Mjj65np7",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247401442224868"
+    },
+    {
+      "code": "NG-BIlTZeaS",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247400295558316"
+    },
+    {
+      "code": "NG-Vj6gRXsT",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247397465558599"
+    },
+    {
+      "code": "NG-F3GMroNi",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247392268892452"
+    },
+    {
+      "code": "NG-spCfZ39B",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247391135559232"
+    },
+    {
+      "code": "NG-QhrD6M0i",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247388445559501"
+    },
+    {
+      "code": "NG-1cFerC8x",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247380602226952"
+    },
+    {
+      "code": "NG-XwZk02K5",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247378458893833"
+    },
+    {
+      "code": "NG-LqNpOLxC",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247378362227176"
+    },
+    {
+      "code": "NG-qoTDpCAM",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247376495560696"
+    },
+    {
+      "code": "NG-NGiBl2Lv",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247372775561068"
+    },
+    {
+      "code": "NG-a1XEgJSm",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247372145561131"
+    },
+    {
+      "code": "NG-LYDRb7wI",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247367805561565"
+    },
+    {
+      "code": "NG-7inLT0yC",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247366218895057"
+    },
+    {
+      "code": "NG-SNymCa3K",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247365668895112"
+    },
+    {
+      "code": "NG-1MwIpXIX",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247364222228590"
+    },
+    {
+      "code": "NG-KJRHmL2k",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247362885562057"
+    },
+    {
+      "code": "NG-2foGs146",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247362872228725"
+    },
+    {
+      "code": "NG-Pt8UdLX5",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247361185562227"
+    },
+    {
+      "code": "NG-5ptJR0CI",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247356852229327"
+    },
+    {
+      "code": "NG-5FbcYQ3l",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247356628896016"
+    },
+    {
+      "code": "NG-9lbHp8Sy",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247355738896105"
+    },
+    {
+      "code": "NG-3tsaTtpG",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247355592229453"
+    },
+    {
+      "code": "NG-paeURIDU",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247353488896330"
+    },
+    {
+      "code": "NG-U8eAy8ug",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247350455563300"
+    },
+    {
+      "code": "NG-WEpvobuu",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247348635563482"
+    },
+    {
+      "code": "NG-kv4hgNwT",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247348535563492"
+    },
+    {
+      "code": "NG-XkWzYve9",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247344945563851"
+    },
+    {
+      "code": "NG-eXORqND9",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247344112230601"
+    },
+    {
+      "code": "NG-9dSJWofX",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247340292230983"
+    },
+    {
+      "code": "NG-ewq9zosE",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247339262231086"
+    },
+    {
+      "code": "NG-OjE1wbk1",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247338115564534"
+    },
+    {
+      "code": "NG-SrQWedAc",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247328058898873"
+    },
+    {
+      "code": "NG-LQ3F4HOe",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247327798898899"
+    },
+    {
+      "code": "NG-tHWyNO9U",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247327115565634"
+    },
+    {
+      "code": "NG-WmpCxbQi",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247324865565859"
+    },
+    {
+      "code": "NG-EqFXKrHO",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247321818899497"
+    },
+    {
+      "code": "NG-SIHiWa4u",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247321302232882"
+    },
+    {
+      "code": "NG-TNqyEzAa",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247321048899574"
+    },
+    {
+      "code": "NG-lwOwuAbY",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247320348899644"
+    },
+    {
+      "code": "NG-S6Uuc1OK",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247318708899808"
+    },
+    {
+      "code": "NG-Yp29oILY",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247314458900233"
+    },
+    {
+      "code": "NG-ll4CvEsh",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247314148900264"
+    },
+    {
+      "code": "NG-QPPcpz8g",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247314045566941"
+    },
+    {
+      "code": "NG-2FGIOhbU",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247310488900630"
+    },
+    {
+      "code": "NG-mvtUvaOe",
+      "collectedAt": "2026-11-11T10:45:17.038Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247308838900795"
+    },
+    {
+      "code": "NG-b18Qqv1u",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247305358901143"
+    },
+    {
+      "code": "NG-iQE64Pyv",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247304605567885"
+    },
+    {
+      "code": "NG-UubGORxg",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247303238901355"
+    },
+    {
+      "code": "NG-YPrcYSev",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247299138901765"
+    },
+    {
+      "code": "NG-xT0ZcJJK",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247293242235688"
+    },
+    {
+      "code": "NG-dUCzXroX",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247292282235784"
+    },
+    {
+      "code": "NG-6i1y6apH",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247292062235806"
+    },
+    {
+      "code": "NG-kled3bLr",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247291775569168"
+    },
+    {
+      "code": "NG-MC78pYEe",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247290238902655"
+    },
+    {
+      "code": "NG-hPgPnMme",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247289475569398"
+    },
+    {
+      "code": "NG-IJQjGyfz",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247288352236177"
+    },
+    {
+      "code": "NG-hB2juggN",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247287978902881"
+    },
+    {
+      "code": "NG-z5PqlgXH",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247282005570145"
+    },
+    {
+      "code": "NG-paGE3BDR",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247279545570391"
+    },
+    {
+      "code": "NG-fZUBNxF4",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247279042237108"
+    },
+    {
+      "code": "NG-YOsfRYlF",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247275118904167"
+    },
+    {
+      "code": "NG-vQY9x3oH",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247274528904226"
+    },
+    {
+      "code": "NG-zuMorsLV",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247273655570980"
+    },
+    {
+      "code": "NG-vgSruSuC",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247273638904315"
+    },
+    {
+      "code": "NG-K6HtrkLU",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247273405571005"
+    },
+    {
+      "code": "NG-lDBfc1Cx",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247270325571313"
+    },
+    {
+      "code": "NG-vNi3eFzI",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247261188905560"
+    },
+    {
+      "code": "NG-IzlDk3mr",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247255452239467"
+    },
+    {
+      "code": "NG-tWLocRtg",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247252865573059"
+    },
+    {
+      "code": "NG-SduZjtHM",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247252548906424"
+    },
+    {
+      "code": "NG-PnY0NzOF",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247250135573332"
+    },
+    {
+      "code": "NG-vk4Y1Otu",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247244718907207"
+    },
+    {
+      "code": "NG-eGstXcE4",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247244295573916"
+    },
+    {
+      "code": "NG-3jo3Vub5",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247243082240704"
+    },
+    {
+      "code": "NG-wS8SFk6p",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247242575574088"
+    },
+    {
+      "code": "NG-nIAG1Aab",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247242428907436"
+    },
+    {
+      "code": "NG-DVMJFnbv",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247239422241070"
+    },
+    {
+      "code": "NG-16jBzKNU",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247235592241453"
+    },
+    {
+      "code": "NG-NNJZpCo2",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247235355574810"
+    },
+    {
+      "code": "NG-EGfOXVFj",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247235315574814"
+    },
+    {
+      "code": "NG-KJW9z3Ih",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247233375575008"
+    },
+    {
+      "code": "NG-6660eN3K",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247233242241688"
+    },
+    {
+      "code": "NG-0N5jSfOl",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247224935575852"
+    },
+    {
+      "code": "NG-UbfJ4pkw",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247224492242563"
+    },
+    {
+      "code": "NG-p3vyq70V",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247223662242646"
+    },
+    {
+      "code": "NG-4Nt3p5Ox",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247223362242676"
+    },
+    {
+      "code": "NG-oN5aexkt",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247222745576071"
+    },
+    {
+      "code": "NG-3BNHtTud",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247219765576369"
+    },
+    {
+      "code": "NG-2wqMq7cG",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247215018910177"
+    },
+    {
+      "code": "NG-lc3eK2SS",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247212875577058"
+    },
+    {
+      "code": "NG-aZuNrSHx",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247212218910457"
+    },
+    {
+      "code": "NG-XJncPlGu",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247211852243827"
+    },
+    {
+      "code": "NG-d1ZAf83l",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247211775577168"
+    },
+    {
+      "code": "NG-8xcIIrpU",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247211008910578"
+    },
+    {
+      "code": "NG-P9NqP54k",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247209742244038"
+    },
+    {
+      "code": "NG-ZJAw4elU",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247209145577431"
+    },
+    {
+      "code": "NG-mCAl6HZk",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247209058910773"
+    },
+    {
+      "code": "NG-D4iYcbqY",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247207352244277"
+    },
+    {
+      "code": "NG-xXLDfarg",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247207225577623"
+    },
+    {
+      "code": "NG-NFZxdWAx",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247207215577624"
+    },
+    {
+      "code": "NG-21tErBy6",
+      "collectedAt": "2026-11-11T10:45:17.039Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247205748911104"
+    },
+    {
+      "code": "NG-bCqbDu4n",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247205598911119"
+    },
+    {
+      "code": "NG-TDounzSq",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247204412244571"
+    },
+    {
+      "code": "NG-bg4qbbHB",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247202762244736"
+    },
+    {
+      "code": "NG-zJgfo9AC",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247202488911430"
+    },
+    {
+      "code": "NG-tjsawEjZ",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247200255578320"
+    },
+    {
+      "code": "NG-6bVevl33",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247200088911670"
+    },
+    {
+      "code": "NG-XXPXXgV8",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247195175578828"
+    },
+    {
+      "code": "NG-xUotK7lH",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247191902245822"
+    },
+    {
+      "code": "NG-99QjO1xR",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247191422245870"
+    },
+    {
+      "code": "NG-7XwCAeQd",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247191352245877"
+    },
+    {
+      "code": "NG-VD2pheIa",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247190942245918"
+    },
+    {
+      "code": "NG-y49vplqz",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247189775579368"
+    },
+    {
+      "code": "NG-kyAR56NA",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247189215579424"
+    },
+    {
+      "code": "NG-OIxYuWlh",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247187998912879"
+    },
+    {
+      "code": "NG-gZXsvSxY",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247186972246315"
+    },
+    {
+      "code": "NG-5i1EhRY1",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247183715579974"
+    },
+    {
+      "code": "NG-nxDpJNFx",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247182385580107"
+    },
+    {
+      "code": "NG-tQV2qj7A",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247182378913441"
+    },
+    {
+      "code": "NG-1D7t32XE",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247181565580189"
+    },
+    {
+      "code": "NG-nJV9rXj2",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247178205580525"
+    },
+    {
+      "code": "NG-fYAt4UBC",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247175745580771"
+    },
+    {
+      "code": "NG-Gr1MX7dU",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247174788914200"
+    },
+    {
+      "code": "NG-F3HQunlR",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247168305581515"
+    },
+    {
+      "code": "NG-wd70u7ic",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247164755581870"
+    },
+    {
+      "code": "NG-UUgCZ1bx",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247162635582082"
+    },
+    {
+      "code": "NG-WH7dXnEg",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247162462248766"
+    },
+    {
+      "code": "NG-Ydzl4hk1",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247161385582207"
+    },
+    {
+      "code": "NG-jpzsQZzU",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247153595582986"
+    },
+    {
+      "code": "NG-15R3EYfL",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247152938916385"
+    },
+    {
+      "code": "NG-SNWYWU2j",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247150705583275"
+    },
+    {
+      "code": "NG-PfTLDiob",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247150622249950"
+    },
+    {
+      "code": "NG-jnzEvNlV",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247148205583525"
+    },
+    {
+      "code": "NG-TiUJ6OvD",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247147478916931"
+    },
+    {
+      "code": "NG-g38QX61s",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247145118917167"
+    },
+    {
+      "code": "NG-TIQN0ICu",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247145068917172"
+    },
+    {
+      "code": "NG-rNqbtVbJ",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247144628917216"
+    },
+    {
+      "code": "NG-Uv3zhXOH",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247143218917357"
+    },
+    {
+      "code": "NG-5gpEBaoJ",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247140732250939"
+    },
+    {
+      "code": "NG-FQwUGDw6",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247140112251001"
+    },
+    {
+      "code": "NG-hC2PE253",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247139068917772"
+    },
+    {
+      "code": "NG-ssW7hBi8",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247136412251371"
+    },
+    {
+      "code": "NG-7BM5Aqts",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247136208918058"
+    },
+    {
+      "code": "NG-hpMeglZ2",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247136032251409"
+    },
+    {
+      "code": "NG-3Bif3O1l",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247135938918085"
+    },
+    {
+      "code": "NG-yO43SOjS",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247135678918111"
+    },
+    {
+      "code": "NG-yhFNGvbr",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247135562251456"
+    },
+    {
+      "code": "NG-T0AwhQjX",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247135332251479"
+    },
+    {
+      "code": "NG-RHYmCaED",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247135235584822"
+    },
+    {
+      "code": "NG-CRxhr1An",
+      "collectedAt": "2026-11-11T10:45:17.040Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247135078918171"
+    },
+    {
+      "code": "NG-14Z0VvqR",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247134892251523"
+    },
+    {
+      "code": "NG-FFEtRfRO",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247134725584873"
+    },
+    {
+      "code": "NG-UCSUuSzF",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247134552251557"
+    },
+    {
+      "code": "NG-Cj7lbLEz",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247134372251575"
+    },
+    {
+      "code": "NG-X9rmLiH6",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247134235584922"
+    },
+    {
+      "code": "NG-qmt4XAJ8",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247134108918268"
+    },
+    {
+      "code": "NG-eJzILkLg",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247133988918280"
+    },
+    {
+      "code": "NG-WcKgGpaP",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247133825584963"
+    },
+    {
+      "code": "NG-HMcsAURP",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247133652251647"
+    },
+    {
+      "code": "NG-PnElehxj",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247131685585177"
+    },
+    {
+      "code": "NG-CBByvQPj",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247130722251940"
+    },
+    {
+      "code": "NG-GUDYz89O",
+      "collectedAt": "2026-11-11T10:45:17.041Z",
+      "source": "https://www.facebook.com/groups/3859049767726706/posts/4244484439183235/?comment_id=4247130192251993"
+    }
+  ]
+}

@@ -1,5 +1,18 @@
 # Overnight web updater
 
+## Curated releases toward 7,777 (11 November 2026)
+
+Owner: Takumi. Akira supplies curated rows with public source URLs and observation times.
+Use `python Kumpulan-Key/release_curated.py --input C:\absolute\path\stage.json`
+for each partial stage. It appends a new batch of at most 1,000 keys, skips global
+duplicates, and rejects totals above 7,777. Run one writer at a time and review
+the result before committing. Batch JSON retains the source rows. `UPDATE-KURASI.json`
+reports the latest stage. Run `python Kumpulan-Key/test_update_web_malam.py` before push.
+
+The overnight campaign below is closed. Its ledger and reports are historical;
+do not rerun that updater on the published project because it rebuilds its own
+batch list. The curated release command preserves those historical files.
+
 Owner: Takumi (web and ZIP). Search and scheduling remain with Akira.
 Campaign: malam-20261110. Baseline: BATCH-01.json, 1,099 keys (1,097 original plus two supplied by Fathah on 11 November 2026).
 
