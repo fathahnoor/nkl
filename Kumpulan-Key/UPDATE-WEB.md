@@ -4,8 +4,9 @@
 
 Owner: Takumi. Akira supplies curated rows with public source URLs and observation times.
 Use `python Kumpulan-Key/release_curated.py --input C:\absolute\path\stage.json`
-for each partial stage. It appends a new batch of at most 1,000 keys, skips global
-duplicates, and rejects totals above 7,777. Run one writer at a time and review
+for each partial stage. It appends a new batch of at most 1,000 keys, with a larger
+final batch allowed only when it closes the total at exactly 7,777. It skips global
+duplicates and rejects totals above 7,777. Run one writer at a time and review
 the result before committing. Batch JSON retains the source rows. `UPDATE-KURASI.json`
 reports the latest stage. Run `python Kumpulan-Key/test_update_web_malam.py` before push.
 

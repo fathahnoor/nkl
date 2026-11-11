@@ -32,8 +32,8 @@ def release(root, incoming):
             known.add(row['code'])
     if not accepted:
         return {'added': 0, 'totalWeb': len(codes)}
-    if len(accepted) > 1000 or len(known) > 7777:
-        raise ValueError('Batch exceeds 1000 keys or total exceeds 7777')
+    if len(known) > 7777 or (len(accepted) > 1000 and len(known) != 7777):
+        raise ValueError('Batch exceeds 1000 keys without closing at 7777, or total exceeds 7777')
     html_path = web / 'index.html'
     html = html_path.read_bytes().decode('utf-8-sig')
     match = re.search(r'<script id="releasedBatches" type="application/json">(.*?)</script>', html, re.S)
@@ -44,6 +44,8 @@ def release(root, incoming):
     batch = {'id': f'kurasi-7777-{number:02d}', 'name': f'Batch {number:02d}',
              'createdAt': now, 'campaign': 'kurasi-7777',
              'codes': [r['code'] for r in accepted], 'rows': accepted}
+    if isinstance(incoming, dict):
+        batch.update({k: incoming[k] for k in ('attribution', 'reusePolicy') if k in incoming})
     payload.append({k: batch[k] for k in ('id', 'name', 'createdAt', 'codes')})
     html = html[:match.start(1)] + json.dumps(payload) + html[match.end(1):]
     report = {'checkedAt': now, 'added': len(accepted), 'totalWeb': len(known),

@@ -20,7 +20,7 @@ Web statik ini dirancang untuk memudahkan copy-paste kode ke aplikasi Nusuk, ter
 - ➕ **Tambah batch sendiri** lewat paste daftar atau import file.
 - 🌌 **Tampilan dark neon** yang nyaman dipakai di layar kecil.
 
-📊 Snapshot **11 November 2026**: **6.248 kode unik**, terdiri dari batch **1.099 + 1.000 + 1.000 + 907 + 222 + 293 + 934 + 793**. Huruf besar-kecil dipertahankan persis. 🔠
+📊 Snapshot **11 November 2026**: **7.777 kode unik**, terdiri dari batch **1.099 + 1.000 + 1.000 + 907 + 222 + 293 + 934 + 793 + 1.529**. Huruf besar-kecil dipertahankan persis. 🔠
 
 💡 Status **Copied** hanya berarti kode sudah di-copy. Penerimaan kode ditentukan aplikasi Nusuk. Daftar ini tidak menjamin kode masih berlaku, bonus, atau hadiah. Gunakan sesuai ketentuan Nusuk. Proyek komunitas ini tidak berafiliasi dengan Nusuk.
 
@@ -56,3 +56,5 @@ Contoh format data ada di [CONTRIBUTING.md](CONTRIBUTING.md). Panduan updater da
 | `.github/workflows/pages.yml` | Pemeriksaan dan publikasi GitHub Pages |
 
 👋 Kalau hanya ingin menggunakan daftar, kamu bisa langsung [**buka webnya di sini**](https://fathahnoor.github.io/nkl/). Selamat mencoba! 📱🔑✨
+
+Sumber Batch 09: [Umrah Codes](https://umrahcodes.click/), melalui [data terbuka](https://umrahcodes.click/en/developers). Sebanyak 1.529 kode dipilih dari salinan data 11 November 2026.

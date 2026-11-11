@@ -23,6 +23,16 @@ class UpdateTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 release(root, [row, {**row, 'source': ''}])
             self.assertEqual(len(list(web.glob('BATCH-*.json'))), len(previous))
+            if count == 7777:
+                before = (web / 'index.html').read_bytes()
+                with self.assertRaises(ValueError):
+                    release(root, [row])
+                self.assertEqual((web / 'index.html').read_bytes(), before)
+                existing = json.loads(next(web.glob('BATCH-*.json')).read_text())['codes'][0]
+                self.assertEqual(release(root, [{**row, 'code': existing}])['added'], 0)
+                for name, data in previous.items():
+                    self.assertEqual((web / name).read_bytes(), data)
+                return
             result = release(root, [row, row])
             self.assertEqual(result['added'], 1)
             self.assertEqual(result['totalWeb'], count+1)
