@@ -8,11 +8,11 @@
     "umrah": 11
   },
   "umrah_country_totals": {
-    "PK": 3,
     "MA": 1,
-    "SY": 1,
+    "PK": 3,
     "EG": 3,
-    "BD": 3
+    "BD": 3,
+    "SY": 1
   },
   "daily": {
     "2026-11-01": {
@@ -64,9 +64,17 @@
   "rendered_total": 121,
   "flag_assets_source": "Prior chart flag assets plus PH and TD from flagcdn.com via BrowserOS neo on 12 November 2026",
   "source_unchanged": true,
-  "chart": "Pemenang-Nusuk-01-11-November-2026.png",
-  "chart_sha256": "17171e063c3a33e424078b73864c94cc566cade6cbbf4f3b97b829cdd5d2b8a5",
+  "chart": "Pemenang-Nusuk-01-11-November-2026-NKL.png",
+  "chart_sha256": "9f84e28f6dc13b32ed5dc87e98324142fb8394f76531ecc229b73a8813e0fd01",
   "scope": "Baseline audit99 retained; 22 new cards transcribed visually from screenshots supplied 12 November.",
+  "theme": "NKL dark navy, teal and lime",
+  "palette": [
+    "#172c3c",
+    "#165564",
+    "#176b78",
+    "#45f4e5",
+    "#d6ff58"
+  ],
   "zamzam_country_rows": 13,
   "zamzam_country_codes": [
     "EG",
