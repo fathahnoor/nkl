@@ -25,6 +25,7 @@ jobs:
         with:
           node-version: '24'
       - name: Test updater and stored progress
+        if: ${{ !contains(github.event.head_commit.message, '[data-only]') }}
         run: python Kumpulan-Key/test_update_web_malam.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

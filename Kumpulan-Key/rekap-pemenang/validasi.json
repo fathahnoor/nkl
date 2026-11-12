@@ -1,18 +1,19 @@
 {
-  "source": "kartu-01-11-nov2026.json",
-  "source_sha256": "733738efdf79c7991fa6982da02df92fc3a2572cde682bee11bdce7e237a73d1",
-  "rows": 121,
-  "unique_source_cards": 121,
+  "source": "kartu-01-12-nov2026.json",
+  "source_sha256": "1443a929e3ab81b0f4444dc60aa288843d7939de08d40be6a6b434b46e693d8b",
+  "rows": 132,
+  "unique_source_cards": 132,
   "totals": {
-    "zamzam": 110,
-    "umrah": 11
+    "zamzam": 120,
+    "umrah": 12
   },
   "umrah_country_totals": {
-    "MA": 1,
     "PK": 3,
+    "MA": 1,
+    "IN": 1,
     "EG": 3,
-    "BD": 3,
-    "SY": 1
+    "SY": 1,
+    "BD": 3
   },
   "daily": {
     "2026-11-01": {
@@ -58,15 +59,19 @@
     "2026-11-11": {
       "umrah": 1,
       "zamzam": 10
+    },
+    "2026-11-12": {
+      "umrah": 1,
+      "zamzam": 10
     }
   },
-  "rendered_cells": 198,
-  "rendered_total": 121,
+  "rendered_cells": 228,
+  "rendered_total": 132,
   "flag_assets_source": "Prior chart flag assets plus PH and TD from flagcdn.com via BrowserOS neo on 12 November 2026",
   "source_unchanged": true,
-  "chart": "Pemenang-Nusuk-01-11-November-2026-NKL.png",
-  "chart_sha256": "9f84e28f6dc13b32ed5dc87e98324142fb8394f76531ecc229b73a8813e0fd01",
-  "scope": "Baseline audit99 retained; 22 new cards transcribed visually from screenshots supplied 12 November.",
+  "chart": "Pemenang-Nusuk-01-12-November-2026-NKL.png",
+  "chart_sha256": "33929eb0938fc22d3010f90d7567b624cf04b96b2979a1121fcef47cab2fc203",
+  "scope": "Baseline audit99 retained; 22 cards from the previous update retained; 11 audited cards for 12 November appended from Audit-Naoki-20261113.",
   "theme": "NKL dark navy, teal and lime",
   "palette": [
     "#172c3c",
@@ -84,16 +89,16 @@
     "IN",
     "YE",
     "AF",
+    "SD",
     "GB",
     "ID",
     "LK",
     "PH",
-    "SD",
     "TD"
   ],
   "footer": "Sumber: Aplikasi Nusuk",
   "image_dimensions": [
-    1848,
-    2520
+    1952,
+    2604
   ]
 }

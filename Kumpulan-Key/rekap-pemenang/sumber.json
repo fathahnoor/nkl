@@ -3,9 +3,12 @@
   "baseline_sha256": "98df498c764e991790b8f6d591dc4994ac694ba6b7d370fcce610440a10d78e2",
   "new_sources": {
     "Screenshot_20261112-161509.jpg": "30d391914f5d49c2d700228b67f28ef839ddad807c1e123df02c4fa3b154b5c5",
-    "Screenshot_20261112-161528.jpg": "8f762bca24d3eca9eb31a0b9443af121ee76f31ce03cdaea217d70c93298274b"
+    "Screenshot_20261112-161528.jpg": "8f762bca24d3eca9eb31a0b9443af121ee76f31ce03cdaea217d70c93298274b",
+    "Screenshot_20261113-012333.jpg": "5f7dbe6c2ca4e9e5b3b3605ecd88f953ad1427bfb04152b9005cc4921482523f"
   },
-  "new_source_cards": 22,
+  "new_source_cards": 33,
   "excluded": "Featured winner at the top duplicates list card 11, so it is not counted again. Names are omitted. Country values are app labels, not independently verified nationality.",
-  "date_11_basis": "Yesterday on screenshot captured 12 November 2026, consistent with the user request."
+  "date_11_basis": "Yesterday on screenshot captured 12 November 2026, consistent with the user request.",
+  "date_12_basis": "Yesterday on screenshot captured 13 November 2026 at 01:23 WIB, consistent with the user request for 12 November.",
+  "audit_12": "../Rekap-Pemenang/Audit-Naoki-20261113/AUDIT-UPDATE-12-NOV.md (outside repository; source evidence retained unchanged)"
 }
