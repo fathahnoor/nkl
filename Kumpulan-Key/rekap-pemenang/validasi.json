@@ -1,0 +1,91 @@
+{
+  "source": "kartu-01-11-nov2026.json",
+  "source_sha256": "733738efdf79c7991fa6982da02df92fc3a2572cde682bee11bdce7e237a73d1",
+  "rows": 121,
+  "unique_source_cards": 121,
+  "totals": {
+    "zamzam": 110,
+    "umrah": 11
+  },
+  "umrah_country_totals": {
+    "PK": 3,
+    "MA": 1,
+    "SY": 1,
+    "EG": 3,
+    "BD": 3
+  },
+  "daily": {
+    "2026-11-01": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-02": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-03": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-04": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-05": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-06": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-07": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-08": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-09": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-10": {
+      "umrah": 1,
+      "zamzam": 10
+    },
+    "2026-11-11": {
+      "umrah": 1,
+      "zamzam": 10
+    }
+  },
+  "rendered_cells": 198,
+  "rendered_total": 121,
+  "flag_assets_source": "Prior chart flag assets plus PH and TD from flagcdn.com via BrowserOS neo on 12 November 2026",
+  "source_unchanged": true,
+  "chart": "Pemenang-Nusuk-01-11-November-2026.png",
+  "chart_sha256": "17171e063c3a33e424078b73864c94cc566cade6cbbf4f3b97b829cdd5d2b8a5",
+  "scope": "Baseline audit99 retained; 22 new cards transcribed visually from screenshots supplied 12 November.",
+  "zamzam_country_rows": 13,
+  "zamzam_country_codes": [
+    "EG",
+    "PK",
+    "BD",
+    "SA",
+    "IN",
+    "YE",
+    "AF",
+    "GB",
+    "ID",
+    "LK",
+    "PH",
+    "SD",
+    "TD"
+  ],
+  "footer": "Sumber: Aplikasi Nusuk",
+  "image_dimensions": [
+    1848,
+    2520
+  ]
+}

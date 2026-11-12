@@ -1,0 +1,11 @@
+{
+  "baseline": "99 cards from Audit-Makoto-20261110/kartu-terverifikasi-audit.json",
+  "baseline_sha256": "98df498c764e991790b8f6d591dc4994ac694ba6b7d370fcce610440a10d78e2",
+  "new_sources": {
+    "Screenshot_20261112-161509.jpg": "30d391914f5d49c2d700228b67f28ef839ddad807c1e123df02c4fa3b154b5c5",
+    "Screenshot_20261112-161528.jpg": "8f762bca24d3eca9eb31a0b9443af121ee76f31ce03cdaea217d70c93298274b"
+  },
+  "new_source_cards": 22,
+  "excluded": "Featured winner at the top duplicates list card 11, so it is not counted again. Names are omitted. Country values are app labels, not independently verified nationality.",
+  "date_11_basis": "Yesterday on screenshot captured 12 November 2026, consistent with the user request."
+}
