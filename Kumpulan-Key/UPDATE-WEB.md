@@ -66,3 +66,21 @@ Fixtures only run in an isolated temporary directory. No new browser or physical
 phone test was run for this updater revision. No Nusuk acceptance test was run.
 
 Status at preparation: 0 new keys; 1,097 keys remain in the actual package.
+
+## Winner recap through 13 November 2026
+
+Owner: Takumi. Integrated on 14 November from the unchanged audit at
+`../Rekap-Pemenang/Audit-Naoki-20261114`. The latest dataset is
+`rekap-pemenang/kartu-01-13-nov2026.json`: 143 unique source cards,
+130 Zamzam and 13 Umrah. The featured Umrah card duplicates list card 11
+and is counted once. Names are omitted; country values remain app labels.
+
+Data checks passed: audit JSON equals CSV, previous 132 records preserved,
+IDs 133-143 appended, daily counts and 13 November country counts matched.
+`python Kumpulan-Key/rekap-pemenang/render_chart.py` rebuilt PNG, PDF,
+aggregate CSV and validation metadata. The chart was visually inspected.
+The offline ZIP contains 22 files, each byte-identical to the web folder.
+The local page was read in BrowserOS neo. Source screenshot and all audit
+files retain their original SHA-256 hashes. No test suite was run, as requested;
+the publication commit uses `[data-only]` to skip the CI test step.
+Publication and live verification are reported with the resulting commit.

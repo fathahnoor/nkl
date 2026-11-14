@@ -1,0 +1,2268 @@
+[
+  {
+    "id": 1,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "India",
+    "code": "IN",
+    "source": "522812.jpg",
+    "source_card": 1,
+    "source_bbox": [
+      0,
+      1248,
+      1120,
+      1571
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 2,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 2,
+    "source_bbox": [
+      0,
+      1593,
+      1120,
+      1916
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 3,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "India",
+    "code": "IN",
+    "source": "522812.jpg",
+    "source_card": 3,
+    "source_bbox": [
+      0,
+      1938,
+      1120,
+      2261
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 4,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 4,
+    "source_bbox": [
+      0,
+      2283,
+      1120,
+      2606
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 5,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 5,
+    "source_bbox": [
+      0,
+      2628,
+      1120,
+      2951
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 6,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 6,
+    "source_bbox": [
+      0,
+      2973,
+      1120,
+      3296
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 7,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 7,
+    "source_bbox": [
+      0,
+      3318,
+      1120,
+      3641
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 8,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 8,
+    "source_bbox": [
+      0,
+      3663,
+      1120,
+      3986
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 9,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 9,
+    "source_bbox": [
+      0,
+      4008,
+      1120,
+      4331
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 10,
+    "date": "2026-11-08",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522812.jpg",
+    "source_card": 10,
+    "source_bbox": [
+      0,
+      4353,
+      1120,
+      4676
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 11,
+    "date": "2026-11-08",
+    "prize": "Umrah trip for two",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 11,
+    "source_bbox": [
+      0,
+      4698,
+      1120,
+      5021
+    ],
+    "evidence_sheet": "522812-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 12,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 12,
+    "source_bbox": [
+      0,
+      5043,
+      1120,
+      5366
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 13,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Indonesia",
+    "code": "ID",
+    "source": "522812.jpg",
+    "source_card": 13,
+    "source_bbox": [
+      0,
+      5388,
+      1120,
+      5711
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 14,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 14,
+    "source_bbox": [
+      0,
+      5733,
+      1120,
+      6056
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 15,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Sri Lanka",
+    "code": "LK",
+    "source": "522812.jpg",
+    "source_card": 15,
+    "source_bbox": [
+      0,
+      6078,
+      1120,
+      6401
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 16,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 16,
+    "source_bbox": [
+      0,
+      6423,
+      1120,
+      6746
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 17,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 17,
+    "source_bbox": [
+      0,
+      6768,
+      1120,
+      7091
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 18,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 18,
+    "source_bbox": [
+      0,
+      7113,
+      1120,
+      7436
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 19,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 19,
+    "source_bbox": [
+      0,
+      7458,
+      1120,
+      7781
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 20,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 20,
+    "source_bbox": [
+      0,
+      7803,
+      1120,
+      8126
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 21,
+    "date": "2026-11-07",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 21,
+    "source_bbox": [
+      0,
+      8148,
+      1120,
+      8471
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 22,
+    "date": "2026-11-07",
+    "prize": "Umrah trip for two",
+    "country": "Morocco",
+    "code": "MA",
+    "source": "522812.jpg",
+    "source_card": 22,
+    "source_bbox": [
+      0,
+      8493,
+      1120,
+      8816
+    ],
+    "evidence_sheet": "522812-2.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 23,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 23,
+    "source_bbox": [
+      0,
+      8838,
+      1120,
+      9161
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 24,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 24,
+    "source_bbox": [
+      0,
+      9183,
+      1120,
+      9506
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 25,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 25,
+    "source_bbox": [
+      0,
+      9528,
+      1120,
+      9851
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 26,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 26,
+    "source_bbox": [
+      0,
+      9873,
+      1120,
+      10196
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 27,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "India",
+    "code": "IN",
+    "source": "522812.jpg",
+    "source_card": 27,
+    "source_bbox": [
+      0,
+      10218,
+      1120,
+      10541
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 28,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Yemen",
+    "code": "YE",
+    "source": "522812.jpg",
+    "source_card": 28,
+    "source_bbox": [
+      0,
+      10563,
+      1120,
+      10886
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 29,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 29,
+    "source_bbox": [
+      0,
+      10908,
+      1120,
+      11231
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 30,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 30,
+    "source_bbox": [
+      0,
+      11253,
+      1120,
+      11576
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 31,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 31,
+    "source_bbox": [
+      0,
+      11598,
+      1120,
+      11921
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 32,
+    "date": "2026-11-06",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 32,
+    "source_bbox": [
+      0,
+      11943,
+      1120,
+      12266
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 33,
+    "date": "2026-11-06",
+    "prize": "Umrah trip for two",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522812.jpg",
+    "source_card": 33,
+    "source_bbox": [
+      0,
+      12288,
+      1120,
+      12611
+    ],
+    "evidence_sheet": "522812-3.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 34,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "India",
+    "code": "IN",
+    "source": "522812.jpg",
+    "source_card": 34,
+    "source_bbox": [
+      0,
+      12633,
+      1120,
+      12956
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 35,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 35,
+    "source_bbox": [
+      0,
+      12978,
+      1120,
+      13301
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 36,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 36,
+    "source_bbox": [
+      0,
+      13323,
+      1120,
+      13646
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 37,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 37,
+    "source_bbox": [
+      0,
+      13668,
+      1120,
+      13991
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 38,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 38,
+    "source_bbox": [
+      0,
+      14013,
+      1120,
+      14336
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 39,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 39,
+    "source_bbox": [
+      0,
+      14358,
+      1120,
+      14681
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 40,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 40,
+    "source_bbox": [
+      0,
+      14703,
+      1120,
+      15026
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 41,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 41,
+    "source_bbox": [
+      0,
+      15048,
+      1120,
+      15371
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 42,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 42,
+    "source_bbox": [
+      0,
+      15393,
+      1120,
+      15716
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 43,
+    "date": "2026-11-05",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 43,
+    "source_bbox": [
+      0,
+      15738,
+      1120,
+      16061
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 44,
+    "date": "2026-11-05",
+    "prize": "Umrah trip for two",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 44,
+    "source_bbox": [
+      0,
+      16083,
+      1120,
+      16406
+    ],
+    "evidence_sheet": "522812-4.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 45,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 45,
+    "source_bbox": [
+      0,
+      16428,
+      1120,
+      16751
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 46,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 46,
+    "source_bbox": [
+      0,
+      16773,
+      1120,
+      17096
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 47,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 47,
+    "source_bbox": [
+      0,
+      17118,
+      1120,
+      17441
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 48,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522812.jpg",
+    "source_card": 48,
+    "source_bbox": [
+      0,
+      17463,
+      1120,
+      17786
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 49,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 49,
+    "source_bbox": [
+      0,
+      17808,
+      1120,
+      18131
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 50,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 50,
+    "source_bbox": [
+      0,
+      18153,
+      1120,
+      18476
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 51,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 51,
+    "source_bbox": [
+      0,
+      18498,
+      1120,
+      18821
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 52,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 52,
+    "source_bbox": [
+      0,
+      18843,
+      1120,
+      19166
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 53,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 53,
+    "source_bbox": [
+      0,
+      19188,
+      1120,
+      19511
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 54,
+    "date": "2026-11-04",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 54,
+    "source_bbox": [
+      0,
+      19533,
+      1120,
+      19856
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 55,
+    "date": "2026-11-04",
+    "prize": "Umrah trip for two",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 55,
+    "source_bbox": [
+      0,
+      19878,
+      1120,
+      20201
+    ],
+    "evidence_sheet": "522812-5.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 56,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 56,
+    "source_bbox": [
+      0,
+      20223,
+      1120,
+      20546
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 57,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 57,
+    "source_bbox": [
+      0,
+      20568,
+      1120,
+      20891
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 58,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "United Kingdom",
+    "code": "GB",
+    "source": "522812.jpg",
+    "source_card": 58,
+    "source_bbox": [
+      0,
+      20913,
+      1120,
+      21236
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 59,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522812.jpg",
+    "source_card": 59,
+    "source_bbox": [
+      0,
+      21258,
+      1120,
+      21581
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 60,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 60,
+    "source_bbox": [
+      0,
+      21603,
+      1120,
+      21926
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 61,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 61,
+    "source_bbox": [
+      0,
+      21948,
+      1120,
+      22271
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 62,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 62,
+    "source_bbox": [
+      0,
+      22293,
+      1120,
+      22616
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 63,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 63,
+    "source_bbox": [
+      0,
+      22638,
+      1120,
+      22961
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 64,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 64,
+    "source_bbox": [
+      0,
+      22983,
+      1120,
+      23306
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 65,
+    "date": "2026-11-03",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522812.jpg",
+    "source_card": 65,
+    "source_bbox": [
+      0,
+      23328,
+      1120,
+      23651
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 66,
+    "date": "2026-11-03",
+    "prize": "Umrah trip for two",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522812.jpg",
+    "source_card": 66,
+    "source_bbox": [
+      0,
+      23673,
+      1120,
+      23996
+    ],
+    "evidence_sheet": "522812-6.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 67,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 67,
+    "source_bbox": [
+      0,
+      24018,
+      1120,
+      24341
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 68,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 68,
+    "source_bbox": [
+      0,
+      24363,
+      1120,
+      24686
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 69,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 69,
+    "source_bbox": [
+      0,
+      24708,
+      1120,
+      25031
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 70,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 70,
+    "source_bbox": [
+      0,
+      25053,
+      1120,
+      25376
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 71,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 71,
+    "source_bbox": [
+      0,
+      25398,
+      1120,
+      25721
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 72,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522812.jpg",
+    "source_card": 72,
+    "source_bbox": [
+      0,
+      25743,
+      1120,
+      26066
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 73,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 73,
+    "source_bbox": [
+      0,
+      26088,
+      1120,
+      26411
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 74,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 74,
+    "source_bbox": [
+      0,
+      26433,
+      1120,
+      26756
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 75,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 75,
+    "source_bbox": [
+      0,
+      26778,
+      1120,
+      27101
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 76,
+    "date": "2026-11-02",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 76,
+    "source_bbox": [
+      0,
+      27123,
+      1120,
+      27446
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 77,
+    "date": "2026-11-02",
+    "prize": "Umrah trip for two",
+    "country": "Syria",
+    "code": "SY",
+    "source": "522812.jpg",
+    "source_card": 77,
+    "source_bbox": [
+      0,
+      27468,
+      1120,
+      27791
+    ],
+    "evidence_sheet": "522812-7.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 78,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 78,
+    "source_bbox": [
+      0,
+      27813,
+      1120,
+      28136
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 79,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 79,
+    "source_bbox": [
+      0,
+      28158,
+      1120,
+      28481
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 80,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Sudan",
+    "code": "SD",
+    "source": "522812.jpg",
+    "source_card": 80,
+    "source_bbox": [
+      0,
+      28503,
+      1120,
+      28886
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 81,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 81,
+    "source_bbox": [
+      0,
+      28908,
+      1120,
+      29231
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 82,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 82,
+    "source_bbox": [
+      0,
+      29253,
+      1120,
+      29576
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 83,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 83,
+    "source_bbox": [
+      0,
+      29598,
+      1120,
+      29921
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 84,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522812.jpg",
+    "source_card": 84,
+    "source_bbox": [
+      0,
+      29943,
+      1120,
+      30266
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 85,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 85,
+    "source_bbox": [
+      0,
+      30288,
+      1120,
+      30611
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 86,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Afghanistan",
+    "code": "AF",
+    "source": "522812.jpg",
+    "source_card": 86,
+    "source_bbox": [
+      0,
+      30633,
+      1120,
+      30956
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 87,
+    "date": "2026-11-01",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 87,
+    "source_bbox": [
+      0,
+      30978,
+      1120,
+      31301
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 88,
+    "date": "2026-11-01",
+    "prize": "Umrah trip for two",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522812.jpg",
+    "source_card": 88,
+    "source_bbox": [
+      0,
+      31323,
+      1120,
+      31646
+    ],
+    "evidence_sheet": "522812-8.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Printed on card"
+  },
+  {
+    "id": 89,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "India",
+    "code": "IN",
+    "source": "522814.jpg",
+    "source_card": 1,
+    "source_bbox": [
+      0,
+      1248,
+      1120,
+      1571
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 90,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522814.jpg",
+    "source_card": 2,
+    "source_bbox": [
+      0,
+      1593,
+      1120,
+      1916
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 91,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "522814.jpg",
+    "source_card": 3,
+    "source_bbox": [
+      0,
+      1938,
+      1120,
+      2261
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 92,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522814.jpg",
+    "source_card": 4,
+    "source_bbox": [
+      0,
+      2283,
+      1120,
+      2606
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 93,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522814.jpg",
+    "source_card": 5,
+    "source_bbox": [
+      0,
+      2628,
+      1120,
+      2951
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 94,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522814.jpg",
+    "source_card": 6,
+    "source_bbox": [
+      0,
+      2973,
+      1120,
+      3296
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 95,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Yemen",
+    "code": "YE",
+    "source": "522814.jpg",
+    "source_card": 7,
+    "source_bbox": [
+      0,
+      3318,
+      1120,
+      3641
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 96,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522814.jpg",
+    "source_card": 8,
+    "source_bbox": [
+      0,
+      3663,
+      1120,
+      3986
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 97,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "522814.jpg",
+    "source_card": 9,
+    "source_bbox": [
+      0,
+      4008,
+      1120,
+      4331
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 98,
+    "date": "2026-11-09",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "522814.jpg",
+    "source_card": 10,
+    "source_bbox": [
+      0,
+      4353,
+      1120,
+      4676
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 99,
+    "date": "2026-11-09",
+    "prize": "Umrah trip for two",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "522814.jpg",
+    "source_card": 11,
+    "source_bbox": [
+      0,
+      4698,
+      1120,
+      5021
+    ],
+    "evidence_sheet": "522814-1.png",
+    "verification": "visual, date/prize/country on same card",
+    "date_basis": "Yesterday; capture 10 November confirmed by user"
+  },
+  {
+    "id": 100,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 1,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 101,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 2,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 102,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 3,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 103,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 4,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 104,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 5,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 105,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 6,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 106,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Yemen",
+    "code": "YE",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 7,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 107,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Philippines",
+    "code": "PH",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 8,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 108,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "India",
+    "code": "IN",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 9,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 109,
+    "date": "2026-11-10",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Afghanistan",
+    "code": "AF",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 10,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 110,
+    "date": "2026-11-10",
+    "prize": "Umrah trip for two",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "Screenshot_20261112-161509.jpg",
+    "source_card": 11,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Printed 10 Nov 2026"
+  },
+  {
+    "id": 111,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 1,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 112,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 2,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 113,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 3,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 114,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 4,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 115,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 5,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 116,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 6,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 117,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 7,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 118,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 8,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 119,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 9,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 120,
+    "date": "2026-11-11",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Chad",
+    "code": "TD",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 10,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 121,
+    "date": "2026-11-11",
+    "prize": "Umrah trip for two",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261112-161528.jpg",
+    "source_card": 11,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261112 and user request for 11 November"
+  },
+  {
+    "id": 122,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 1,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 123,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 2,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 124,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 3,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 125,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 4,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 126,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 5,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 127,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 6,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 128,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 7,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 129,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Sudan",
+    "code": "SD",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 8,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 130,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 9,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 131,
+    "date": "2026-11-12",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 10,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 132,
+    "date": "2026-11-12",
+    "prize": "Umrah trip for two",
+    "country": "India",
+    "code": "IN",
+    "source": "Screenshot_20261113-012333.jpg",
+    "source_card": 11,
+    "verification": "visual: date, prize and country read on the same list card; top featured winner excluded",
+    "date_basis": "Yesterday; screenshot filename 20261113 and user request for 12 November"
+  },
+  {
+    "id": 133,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Indonesia",
+    "code": "ID",
+    "source": "533601.jpg",
+    "source_card": 1,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 134,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "533601.jpg",
+    "source_card": 2,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 135,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "533601.jpg",
+    "source_card": 3,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 136,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Sri Lanka",
+    "code": "LK",
+    "source": "533601.jpg",
+    "source_card": 4,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 137,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source": "533601.jpg",
+    "source_card": 5,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 138,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Egypt",
+    "code": "EG",
+    "source_card": 6,
+    "source": "533601.jpg",
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 139,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Morocco",
+    "code": "MA",
+    "source": "533601.jpg",
+    "source_card": 7,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 140,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "533601.jpg",
+    "source_card": 8,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 141,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "source": "533601.jpg",
+    "source_card": 9,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 142,
+    "date": "2026-11-13",
+    "prize": "20 cartons of Zamzam water",
+    "country": "Pakistan",
+    "code": "PK",
+    "source": "533601.jpg",
+    "source_card": 10,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  },
+  {
+    "id": 143,
+    "date": "2026-11-13",
+    "prize": "Umrah trip for two",
+    "country": "Bangladesh",
+    "code": "BD",
+    "source": "533601.jpg",
+    "source_card": 11,
+    "verification": "visual: date, prize, and country read on the same list card; featured Umrah card excluded",
+    "date_basis": "Yesterday label on Today tab; user request for 13 November; screenshot received 14 November 2026 at 07:14 WIB"
+  }
+]
