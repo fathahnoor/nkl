@@ -12,19 +12,7 @@ umrah,BD,2026-11-10,1
 umrah,BD,2026-11-11,0
 umrah,BD,2026-11-12,0
 umrah,BD,2026-11-13,1
-umrah,EG,2026-11-01,1
-umrah,EG,2026-11-02,0
-umrah,EG,2026-11-03,0
-umrah,EG,2026-11-04,0
-umrah,EG,2026-11-05,1
-umrah,EG,2026-11-06,0
-umrah,EG,2026-11-07,0
-umrah,EG,2026-11-08,0
-umrah,EG,2026-11-09,1
-umrah,EG,2026-11-10,0
-umrah,EG,2026-11-11,0
-umrah,EG,2026-11-12,0
-umrah,EG,2026-11-13,0
+umrah,BD,2026-11-14,0
 umrah,PK,2026-11-01,0
 umrah,PK,2026-11-02,0
 umrah,PK,2026-11-03,0
@@ -38,6 +26,21 @@ umrah,PK,2026-11-10,0
 umrah,PK,2026-11-11,1
 umrah,PK,2026-11-12,0
 umrah,PK,2026-11-13,0
+umrah,PK,2026-11-14,1
+umrah,EG,2026-11-01,1
+umrah,EG,2026-11-02,0
+umrah,EG,2026-11-03,0
+umrah,EG,2026-11-04,0
+umrah,EG,2026-11-05,1
+umrah,EG,2026-11-06,0
+umrah,EG,2026-11-07,0
+umrah,EG,2026-11-08,0
+umrah,EG,2026-11-09,1
+umrah,EG,2026-11-10,0
+umrah,EG,2026-11-11,0
+umrah,EG,2026-11-12,0
+umrah,EG,2026-11-13,0
+umrah,EG,2026-11-14,0
 umrah,IN,2026-11-01,0
 umrah,IN,2026-11-02,0
 umrah,IN,2026-11-03,0
@@ -51,6 +54,7 @@ umrah,IN,2026-11-10,0
 umrah,IN,2026-11-11,0
 umrah,IN,2026-11-12,1
 umrah,IN,2026-11-13,0
+umrah,IN,2026-11-14,0
 umrah,MA,2026-11-01,0
 umrah,MA,2026-11-02,0
 umrah,MA,2026-11-03,0
@@ -64,6 +68,7 @@ umrah,MA,2026-11-10,0
 umrah,MA,2026-11-11,0
 umrah,MA,2026-11-12,0
 umrah,MA,2026-11-13,0
+umrah,MA,2026-11-14,0
 umrah,SY,2026-11-01,0
 umrah,SY,2026-11-02,1
 umrah,SY,2026-11-03,0
@@ -77,6 +82,7 @@ umrah,SY,2026-11-10,0
 umrah,SY,2026-11-11,0
 umrah,SY,2026-11-12,0
 umrah,SY,2026-11-13,0
+umrah,SY,2026-11-14,0
 zamzam,EG,2026-11-01,7
 zamzam,EG,2026-11-02,6
 zamzam,EG,2026-11-03,5
@@ -90,6 +96,7 @@ zamzam,EG,2026-11-10,2
 zamzam,EG,2026-11-11,4
 zamzam,EG,2026-11-12,3
 zamzam,EG,2026-11-13,4
+zamzam,EG,2026-11-14,3
 zamzam,PK,2026-11-01,1
 zamzam,PK,2026-11-02,1
 zamzam,PK,2026-11-03,2
@@ -103,6 +110,7 @@ zamzam,PK,2026-11-10,3
 zamzam,PK,2026-11-11,3
 zamzam,PK,2026-11-12,5
 zamzam,PK,2026-11-13,1
+zamzam,PK,2026-11-14,3
 zamzam,BD,2026-11-01,0
 zamzam,BD,2026-11-02,0
 zamzam,BD,2026-11-03,2
@@ -116,6 +124,7 @@ zamzam,BD,2026-11-10,1
 zamzam,BD,2026-11-11,2
 zamzam,BD,2026-11-12,1
 zamzam,BD,2026-11-13,1
+zamzam,BD,2026-11-14,0
 zamzam,SA,2026-11-01,0
 zamzam,SA,2026-11-02,3
 zamzam,SA,2026-11-03,0
@@ -129,6 +138,7 @@ zamzam,SA,2026-11-10,0
 zamzam,SA,2026-11-11,0
 zamzam,SA,2026-11-12,0
 zamzam,SA,2026-11-13,1
+zamzam,SA,2026-11-14,1
 zamzam,IN,2026-11-01,0
 zamzam,IN,2026-11-02,0
 zamzam,IN,2026-11-03,0
@@ -142,6 +152,7 @@ zamzam,IN,2026-11-10,1
 zamzam,IN,2026-11-11,0
 zamzam,IN,2026-11-12,0
 zamzam,IN,2026-11-13,0
+zamzam,IN,2026-11-14,2
 zamzam,YE,2026-11-01,0
 zamzam,YE,2026-11-02,0
 zamzam,YE,2026-11-03,0
@@ -155,6 +166,7 @@ zamzam,YE,2026-11-10,1
 zamzam,YE,2026-11-11,0
 zamzam,YE,2026-11-12,0
 zamzam,YE,2026-11-13,0
+zamzam,YE,2026-11-14,0
 zamzam,AF,2026-11-01,1
 zamzam,AF,2026-11-02,0
 zamzam,AF,2026-11-03,0
@@ -168,6 +180,7 @@ zamzam,AF,2026-11-10,1
 zamzam,AF,2026-11-11,0
 zamzam,AF,2026-11-12,0
 zamzam,AF,2026-11-13,0
+zamzam,AF,2026-11-14,0
 zamzam,ID,2026-11-01,0
 zamzam,ID,2026-11-02,0
 zamzam,ID,2026-11-03,0
@@ -181,6 +194,7 @@ zamzam,ID,2026-11-10,0
 zamzam,ID,2026-11-11,0
 zamzam,ID,2026-11-12,0
 zamzam,ID,2026-11-13,1
+zamzam,ID,2026-11-14,0
 zamzam,LK,2026-11-01,0
 zamzam,LK,2026-11-02,0
 zamzam,LK,2026-11-03,0
@@ -194,6 +208,7 @@ zamzam,LK,2026-11-10,0
 zamzam,LK,2026-11-11,0
 zamzam,LK,2026-11-12,0
 zamzam,LK,2026-11-13,1
+zamzam,LK,2026-11-14,0
 zamzam,MA,2026-11-01,0
 zamzam,MA,2026-11-02,0
 zamzam,MA,2026-11-03,0
@@ -207,6 +222,7 @@ zamzam,MA,2026-11-10,0
 zamzam,MA,2026-11-11,0
 zamzam,MA,2026-11-12,0
 zamzam,MA,2026-11-13,1
+zamzam,MA,2026-11-14,0
 zamzam,SD,2026-11-01,1
 zamzam,SD,2026-11-02,0
 zamzam,SD,2026-11-03,0
@@ -220,6 +236,7 @@ zamzam,SD,2026-11-10,0
 zamzam,SD,2026-11-11,0
 zamzam,SD,2026-11-12,1
 zamzam,SD,2026-11-13,0
+zamzam,SD,2026-11-14,0
 zamzam,GB,2026-11-01,0
 zamzam,GB,2026-11-02,0
 zamzam,GB,2026-11-03,1
@@ -233,6 +250,7 @@ zamzam,GB,2026-11-10,0
 zamzam,GB,2026-11-11,0
 zamzam,GB,2026-11-12,0
 zamzam,GB,2026-11-13,0
+zamzam,GB,2026-11-14,0
 zamzam,PH,2026-11-01,0
 zamzam,PH,2026-11-02,0
 zamzam,PH,2026-11-03,0
@@ -246,6 +264,21 @@ zamzam,PH,2026-11-10,1
 zamzam,PH,2026-11-11,0
 zamzam,PH,2026-11-12,0
 zamzam,PH,2026-11-13,0
+zamzam,PH,2026-11-14,0
+zamzam,SN,2026-11-01,0
+zamzam,SN,2026-11-02,0
+zamzam,SN,2026-11-03,0
+zamzam,SN,2026-11-04,0
+zamzam,SN,2026-11-05,0
+zamzam,SN,2026-11-06,0
+zamzam,SN,2026-11-07,0
+zamzam,SN,2026-11-08,0
+zamzam,SN,2026-11-09,0
+zamzam,SN,2026-11-10,0
+zamzam,SN,2026-11-11,0
+zamzam,SN,2026-11-12,0
+zamzam,SN,2026-11-13,0
+zamzam,SN,2026-11-14,1
 zamzam,TD,2026-11-01,0
 zamzam,TD,2026-11-02,0
 zamzam,TD,2026-11-03,0
@@ -259,3 +292,4 @@ zamzam,TD,2026-11-10,0
 zamzam,TD,2026-11-11,1
 zamzam,TD,2026-11-12,0
 zamzam,TD,2026-11-13,0
+zamzam,TD,2026-11-14,0

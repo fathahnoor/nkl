@@ -1,19 +1,19 @@
 {
-  "source": "kartu-01-13-nov2026.json",
-  "source_sha256": "c569781653eb91265080e6bf2f94bef0ad3308cec3c15a05120e2cde82c3ea5f",
-  "rows": 143,
-  "unique_source_cards": 143,
+  "source": "kartu-01-14-nov2026.json",
+  "source_sha256": "af85ad864ecaf2eea28f362ebb50885d44629597209a7b0c02d5bebd5f4a1b27",
+  "rows": 154,
+  "unique_source_cards": 154,
   "totals": {
-    "zamzam": 130,
-    "umrah": 13
+    "zamzam": 140,
+    "umrah": 14
   },
   "umrah_country_totals": {
-    "MA": 1,
-    "SY": 1,
     "IN": 1,
-    "PK": 3,
+    "SY": 1,
+    "BD": 4,
+    "MA": 1,
     "EG": 3,
-    "BD": 4
+    "PK": 4
   },
   "daily": {
     "2026-11-01": {
@@ -67,15 +67,19 @@
     "2026-11-13": {
       "umrah": 1,
       "zamzam": 10
+    },
+    "2026-11-14": {
+      "umrah": 1,
+      "zamzam": 10
     }
   },
-  "rendered_cells": 260,
-  "rendered_total": 143,
-  "flag_assets_source": "Prior chart flag assets plus PH and TD from flagcdn.com via BrowserOS neo on 12 November 2026",
+  "rendered_cells": 294,
+  "rendered_total": 154,
+  "flag_assets_source": "Prior chart assets retained; SN binary PNG from https://flagcdn.com/w160/sn.png retrieved 15 November 2026",
   "source_unchanged": true,
-  "chart": "Pemenang-Nusuk-01-13-November-2026-NKL.png",
-  "chart_sha256": "e344a22da1785eabfa534776e8de49eac69902752aeb7b7ec999305a02415dbd",
-  "scope": "Baseline audit99 retained; 33 previously appended cards retained; 11 audited cards for 13 November appended from Audit-Naoki-20261114.",
+  "chart": "Pemenang-Nusuk-01-14-November-2026-NKL.png",
+  "chart_sha256": "f00010b5524981c6f0df62f23b6e05645637d9cb9aa7517cabe5795467b27125",
+  "scope": "Baseline audit99 retained; 44 previously appended cards retained; 11 audited cards for 14 November appended from Audit-Naoki-20261115.",
   "theme": "NKL dark navy, teal and lime",
   "palette": [
     "#172c3c",
@@ -84,7 +88,7 @@
     "#45f4e5",
     "#d6ff58"
   ],
-  "zamzam_country_rows": 14,
+  "zamzam_country_rows": 15,
   "zamzam_country_codes": [
     "EG",
     "PK",
@@ -99,11 +103,12 @@
     "SD",
     "GB",
     "PH",
+    "SN",
     "TD"
   ],
   "footer": "Sumber: Aplikasi Nusuk",
   "image_dimensions": [
-    2056,
-    2688
+    2160,
+    2772
   ]
 }

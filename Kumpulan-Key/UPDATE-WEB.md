@@ -1,5 +1,31 @@
 # Overnight web updater
 
+## Winner recap through 14 November 2026
+
+Owner: Takumi. Integrated on 15 November from the unchanged audit at
+`../Rekap-Pemenang/Audit-Naoki-20261115`. Current dataset:
+`rekap-pemenang/kartu-01-14-nov2026.json`, 154 unique cards,
+140 Zamzam and 14 Umrah. Previous 143 records are preserved.
+IDs 144-154 match the audit JSON and CSV; the featured Umrah card is
+counted once. Names are omitted. Country values remain app labels,
+and the screenshot does not prove receipt of a prize.
+
+Render assertions passed for daily totals and country counts, including
+Egypt 3, Pakistan 3, India 2, Senegal 1 and Saudi Arabia 1 for Zamzam
+on 14 November, plus one Pakistan Umrah card. PNG and PDF were rebuilt,
+and the PNG was visually inspected locally. The aggregate contains 294
+cells summing to 154. The new Senegal flag binary comes from flagcdn.com;
+its URL and SHA-256 are recorded in `rekap-pemenang/sumber.json`.
+The offline ZIP contains 23 files, each byte-identical to the web folder.
+All four audit files, including the screenshot, retain their SHA-256 hashes.
+No test suite was run; `[data-only]` skips the existing CI test step.
+
+Browser verification is pending: the configured BrowserOS neo MCP endpoint
+at localhost:9010 did not answer the connection test on 15 November.
+Restore BrowserOS neo, then check the live recap and chart at
+https://fathahnoor.github.io/nkl/#rekap-pemenang.
+Deployment status is reported with the publication commit.
+
 ## Curated releases toward 7,777 (11 November 2026)
 
 Owner: Takumi. Akira supplies curated rows with public source URLs and observation times.
