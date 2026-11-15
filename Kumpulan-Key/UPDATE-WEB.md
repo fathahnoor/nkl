@@ -1,5 +1,27 @@
 # Overnight web updater
 
+## Winner recap through 15 November 2026
+
+Owner: Takumi. Integrated on 16 November from the unchanged audit at
+`../Rekap-Pemenang/Audit-Naoki-20261116`. Current dataset:
+`rekap-pemenang/kartu-01-15-nov2026.json`, 165 unique source cards,
+150 Zamzam and 15 Umrah. The previous 154 records are preserved.
+IDs 155-165 match the audit JSON and CSV. The featured Umrah duplicate
+is counted once. Names are omitted; country values remain app labels.
+
+Data and render checks passed: 15 days with 10 Zamzam and one Umrah card
+each; 15 November Zamzam totals match India 1, Saudi Arabia 2, Egypt 3,
+Syria 1, Bangladesh 2 and Pakistan 1, plus one Indonesia Umrah card.
+The chart has 345 cells summing to 165; PNG and PDF were rebuilt and the
+PNG visually inspected. The offline ZIP contains 24 files, all byte-identical
+to the web folder. All source audit files retain their SHA-256 hashes.
+No test suite was run; `[data-only]` skips the existing CI test step.
+
+BrowserOS neo is connected again. The previously pending 14 November
+public recap was read on 16 November and showed 154 cards, 140 Zamzam
+and 14 Umrah. Deployment and the 15 November live recap are checked
+after push and reported with the publication commit.
+
 ## Winner recap through 14 November 2026
 
 Owner: Takumi. Integrated on 15 November from the unchanged audit at

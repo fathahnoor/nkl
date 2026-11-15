@@ -1,19 +1,20 @@
 {
-  "source": "kartu-01-14-nov2026.json",
-  "source_sha256": "af85ad864ecaf2eea28f362ebb50885d44629597209a7b0c02d5bebd5f4a1b27",
-  "rows": 154,
-  "unique_source_cards": 154,
+  "source": "kartu-01-15-nov2026.json",
+  "source_sha256": "a9e323d74b3abb130c0dfea3334370b825ce27e749557aa693b56006b3043a49",
+  "rows": 165,
+  "unique_source_cards": 165,
   "totals": {
-    "zamzam": 140,
-    "umrah": 14
+    "zamzam": 150,
+    "umrah": 15
   },
   "umrah_country_totals": {
-    "IN": 1,
-    "SY": 1,
-    "BD": 4,
-    "MA": 1,
+    "PK": 4,
     "EG": 3,
-    "PK": 4
+    "IN": 1,
+    "MA": 1,
+    "BD": 4,
+    "ID": 1,
+    "SY": 1
   },
   "daily": {
     "2026-11-01": {
@@ -71,15 +72,19 @@
     "2026-11-14": {
       "umrah": 1,
       "zamzam": 10
+    },
+    "2026-11-15": {
+      "umrah": 1,
+      "zamzam": 10
     }
   },
-  "rendered_cells": 294,
-  "rendered_total": 154,
+  "rendered_cells": 345,
+  "rendered_total": 165,
   "flag_assets_source": "Prior chart assets retained; SN binary PNG from https://flagcdn.com/w160/sn.png retrieved 15 November 2026",
   "source_unchanged": true,
-  "chart": "Pemenang-Nusuk-01-14-November-2026-NKL.png",
-  "chart_sha256": "f00010b5524981c6f0df62f23b6e05645637d9cb9aa7517cabe5795467b27125",
-  "scope": "Baseline audit99 retained; 44 previously appended cards retained; 11 audited cards for 14 November appended from Audit-Naoki-20261115.",
+  "chart": "Pemenang-Nusuk-01-15-November-2026-NKL.png",
+  "chart_sha256": "55ed58d0a86cbc381fa70edcb3edef6113b90c4f83032425503cd5fe30147b12",
+  "scope": "Baseline audit99 retained; 55 previously appended cards retained; 11 audited cards for 15 November appended from Audit-Naoki-20261116.",
   "theme": "NKL dark navy, teal and lime",
   "palette": [
     "#172c3c",
@@ -88,19 +93,20 @@
     "#45f4e5",
     "#d6ff58"
   ],
-  "zamzam_country_rows": 15,
+  "zamzam_country_rows": 16,
   "zamzam_country_codes": [
     "EG",
     "PK",
     "BD",
     "SA",
     "IN",
+    "ID",
     "YE",
     "AF",
-    "ID",
     "LK",
     "MA",
     "SD",
+    "SY",
     "GB",
     "PH",
     "SN",
@@ -108,7 +114,7 @@
   ],
   "footer": "Sumber: Aplikasi Nusuk",
   "image_dimensions": [
-    2160,
-    2772
+    2264,
+    2940
   ]
 }
