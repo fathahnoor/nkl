@@ -1,20 +1,21 @@
 {
-  "source": "kartu-01-15-nov2026.json",
-  "source_sha256": "a9e323d74b3abb130c0dfea3334370b825ce27e749557aa693b56006b3043a49",
-  "rows": 165,
-  "unique_source_cards": 165,
+  "source": "kartu-01-16-nov2026.json",
+  "source_sha256": "2c2457a032353d1da825d13ae0dd57dd80184dd077a8bfb8d344a6733d611ed0",
+  "rows": 176,
+  "unique_source_cards": 176,
   "totals": {
-    "zamzam": 150,
-    "umrah": 15
+    "zamzam": 160,
+    "umrah": 16
   },
   "umrah_country_totals": {
-    "PK": 4,
-    "EG": 3,
-    "IN": 1,
-    "MA": 1,
     "BD": 4,
+    "IN": 1,
+    "EG": 3,
+    "SN": 1,
+    "SY": 1,
     "ID": 1,
-    "SY": 1
+    "MA": 1,
+    "PK": 4
   },
   "daily": {
     "2026-11-01": {
@@ -76,15 +77,19 @@
     "2026-11-15": {
       "umrah": 1,
       "zamzam": 10
+    },
+    "2026-11-16": {
+      "umrah": 1,
+      "zamzam": 10
     }
   },
-  "rendered_cells": 345,
-  "rendered_total": 165,
+  "rendered_cells": 384,
+  "rendered_total": 176,
   "flag_assets_source": "Prior chart assets retained; SN binary PNG from https://flagcdn.com/w160/sn.png retrieved 15 November 2026",
   "source_unchanged": true,
-  "chart": "Pemenang-Nusuk-01-15-November-2026-NKL.png",
-  "chart_sha256": "55ed58d0a86cbc381fa70edcb3edef6113b90c4f83032425503cd5fe30147b12",
-  "scope": "Baseline audit99 retained; 55 previously appended cards retained; 11 audited cards for 15 November appended from Audit-Naoki-20261116.",
+  "chart": "Pemenang-Nusuk-01-16-November-2026-NKL.png",
+  "chart_sha256": "4ac81aaa505bd104213fb014305b49d4f7fbf31c9177a8ec05b7d6b693759bc8",
+  "scope": "Baseline audit99 retained; 66 previously appended cards retained; 11 audited cards for 16 November appended from Audit-Naoki-20261117.",
   "theme": "NKL dark navy, teal and lime",
   "palette": [
     "#172c3c",
@@ -101,20 +106,20 @@
     "SA",
     "IN",
     "ID",
+    "SD",
     "YE",
     "AF",
     "LK",
     "MA",
-    "SD",
+    "SN",
     "SY",
     "GB",
     "PH",
-    "SN",
     "TD"
   ],
   "footer": "Sumber: Aplikasi Nusuk",
   "image_dimensions": [
     2264,
-    2940
+    3024
   ]
 }
