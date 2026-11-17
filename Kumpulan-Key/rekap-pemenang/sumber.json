@@ -8,9 +8,10 @@
     "533601.jpg": "7c9270713840b4db00b7fb17ad05bb9510dcd43448c0c19d35f275af08faf24d",
     "535771.jpg": "dc79048f1c244eac0632042debd9ba4140cf16bd953f74ae07f92a10cb6f9839",
     "537812.jpg": "3c873b50bfce6d5d545537ccc4f04749235ea65cc52d98156f22535a7f7ae348",
-    "539888.jpg": "c5ded836a75c7fa03209e7408db19a0cf660926c73bea27d986841f9a6861936"
+    "539888.jpg": "c5ded836a75c7fa03209e7408db19a0cf660926c73bea27d986841f9a6861936",
+    "542037.jpg": "2335706f2d2ab6e0c79605989ac984989820c76669f0eb8f7acffd37b0ca7467"
   },
-  "new_source_cards": 77,
+  "new_source_cards": 88,
   "excluded": "Featured winner at the top duplicates list card 11, so it is not counted again. Names are omitted. Country values are app labels, not independently verified nationality.",
   "date_11_basis": "Yesterday on screenshot captured 12 November 2026, consistent with the user request.",
   "date_12_basis": "Yesterday on screenshot captured 13 November 2026 at 01:23 WIB, consistent with the user request for 12 November.",
@@ -26,5 +27,7 @@
   "date_15_basis": "Yesterday label on Today tab; user request for 15 November; screenshot received 16 November 2026",
   "audit_15": "../Rekap-Pemenang/Audit-Naoki-20261116/AUDIT-UPDATE-15-NOV.md (outside repository; source evidence retained unchanged)",
   "date_16_basis": "Yesterday label on Today tab; user request for 16 November; screenshot received 17 November 2026",
-  "audit_16": "../Rekap-Pemenang/Audit-Naoki-20261117/AUDIT-UPDATE-16-NOV.md (outside repository; source evidence retained unchanged)"
+  "audit_16": "../Rekap-Pemenang/Audit-Naoki-20261117/AUDIT-UPDATE-16-NOV.md (outside repository; source evidence retained unchanged)",
+  "date_17_basis": "Yesterday label on Today tab; user request for 17 November; screenshot received 18 November 2026",
+  "audit_17": "../Rekap-Pemenang/Audit-Naoki-20261118/AUDIT-UPDATE-17-NOV.md (outside repository; source evidence retained unchanged)"
 }

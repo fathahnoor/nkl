@@ -1,21 +1,21 @@
 {
-  "source": "kartu-01-16-nov2026.json",
-  "source_sha256": "2c2457a032353d1da825d13ae0dd57dd80184dd077a8bfb8d344a6733d611ed0",
-  "rows": 176,
-  "unique_source_cards": 176,
+  "source": "kartu-01-17-nov2026.json",
+  "source_sha256": "ec2a295932d062498a95162ece83fc4f5ff1fde85dce7379c8d96d1ac2e9860f",
+  "rows": 187,
+  "unique_source_cards": 187,
   "totals": {
-    "zamzam": 160,
-    "umrah": 16
+    "zamzam": 170,
+    "umrah": 17
   },
   "umrah_country_totals": {
-    "BD": 4,
-    "IN": 1,
-    "EG": 3,
+    "MA": 1,
     "SN": 1,
     "SY": 1,
+    "BD": 4,
+    "PK": 4,
     "ID": 1,
-    "MA": 1,
-    "PK": 4
+    "EG": 4,
+    "IN": 1
   },
   "daily": {
     "2026-11-01": {
@@ -81,15 +81,19 @@
     "2026-11-16": {
       "umrah": 1,
       "zamzam": 10
+    },
+    "2026-11-17": {
+      "umrah": 1,
+      "zamzam": 10
     }
   },
-  "rendered_cells": 384,
-  "rendered_total": 176,
+  "rendered_cells": 408,
+  "rendered_total": 187,
   "flag_assets_source": "Prior chart assets retained; SN binary PNG from https://flagcdn.com/w160/sn.png retrieved 15 November 2026",
   "source_unchanged": true,
-  "chart": "Pemenang-Nusuk-01-16-November-2026-NKL.png",
-  "chart_sha256": "4ac81aaa505bd104213fb014305b49d4f7fbf31c9177a8ec05b7d6b693759bc8",
-  "scope": "Baseline audit99 retained; 66 previously appended cards retained; 11 audited cards for 16 November appended from Audit-Naoki-20261117.",
+  "chart": "Pemenang-Nusuk-01-17-November-2026-NKL.png",
+  "chart_sha256": "454a98ff7496884047956529a23f1a4fbc3a29aa0579225e5d12561b8f31bac6",
+  "scope": "Baseline audit99 retained; 77 previously appended cards retained; 11 audited cards for 17 November appended from Audit-Naoki-20261118.",
   "theme": "NKL dark navy, teal and lime",
   "palette": [
     "#172c3c",
@@ -107,10 +111,10 @@
     "IN",
     "ID",
     "SD",
+    "MA",
     "YE",
     "AF",
     "LK",
-    "MA",
     "SN",
     "SY",
     "GB",
@@ -119,7 +123,7 @@
   ],
   "footer": "Sumber: Aplikasi Nusuk",
   "image_dimensions": [
-    2264,
+    2368,
     3024
   ]
 }
