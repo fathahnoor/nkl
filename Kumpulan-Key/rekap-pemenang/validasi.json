@@ -1,21 +1,21 @@
 {
-  "source": "kartu-01-17-nov2026.json",
-  "source_sha256": "ec2a295932d062498a95162ece83fc4f5ff1fde85dce7379c8d96d1ac2e9860f",
-  "rows": 187,
-  "unique_source_cards": 187,
+  "source": "kartu-01-18-nov2026.json",
+  "source_sha256": "edd0c22f72e0cb969a7aab4134224b3cb9698e71d61869ba62e48b76370aa0e2",
+  "rows": 198,
+  "unique_source_cards": 198,
   "totals": {
-    "zamzam": 170,
-    "umrah": 17
+    "zamzam": 180,
+    "umrah": 18
   },
   "umrah_country_totals": {
-    "MA": 1,
+    "EG": 5,
+    "IN": 1,
     "SN": 1,
-    "SY": 1,
     "BD": 4,
+    "SY": 1,
     "PK": 4,
     "ID": 1,
-    "EG": 4,
-    "IN": 1
+    "MA": 1
   },
   "daily": {
     "2026-11-01": {
@@ -85,15 +85,19 @@
     "2026-11-17": {
       "umrah": 1,
       "zamzam": 10
+    },
+    "2026-11-18": {
+      "umrah": 1,
+      "zamzam": 10
     }
   },
-  "rendered_cells": 408,
-  "rendered_total": 187,
+  "rendered_cells": 432,
+  "rendered_total": 198,
   "flag_assets_source": "Prior chart assets retained; SN binary PNG from https://flagcdn.com/w160/sn.png retrieved 15 November 2026",
   "source_unchanged": true,
-  "chart": "Pemenang-Nusuk-01-17-November-2026-NKL.png",
-  "chart_sha256": "454a98ff7496884047956529a23f1a4fbc3a29aa0579225e5d12561b8f31bac6",
-  "scope": "Baseline audit99 retained; 77 previously appended cards retained; 11 audited cards for 17 November appended from Audit-Naoki-20261118.",
+  "chart": "Pemenang-Nusuk-01-18-November-2026-NKL.png",
+  "chart_sha256": "5390b5e1d6e7261aaaddd0f3736322f40ccea7d93a02fbdc78d3cfdb9ba32e8a",
+  "scope": "Baseline audit99 retained; 88 previously appended cards retained; 11 audited cards for 18 November appended from Audit-Naoki-20261119.",
   "theme": "NKL dark navy, teal and lime",
   "palette": [
     "#172c3c",
@@ -110,8 +114,8 @@
     "SA",
     "IN",
     "ID",
-    "SD",
     "MA",
+    "SD",
     "YE",
     "AF",
     "LK",
@@ -123,7 +127,7 @@
   ],
   "footer": "Sumber: Aplikasi Nusuk",
   "image_dimensions": [
-    2368,
+    2472,
     3024
   ]
 }
